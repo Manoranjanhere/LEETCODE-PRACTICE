@@ -1,6 +1,6 @@
 class Solution {
 public:
-    double maxProduct(vector<int>& nums) {
+    int maxProduct(vector<int>& nums) {
         double maxi = INT_MIN;
         double prod=1;
 
@@ -20,6 +20,7 @@ public:
           if(prod==0)
            prod=1;
         }
-        return maxi;
+        int ans =maxi;
+        return ans;
     }
 };
