@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
 # Two Pointers
 |  |
@@ -37,3 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+# Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
