@@ -4,16 +4,16 @@ public:
     int findRadius(vector<int>& houses, vector<int>& heaters) {
         int heat = heaters.size();
         int house = houses.size();
-        vector<int> arr(house);  // Use vector instead of C-style array for better safety
+        vector<int> arr(house);  
         
-        sort(heaters.begin(), heaters.end());  // Sort heaters for binary search
+        sort(heaters.begin(), heaters.end());  
 
         for (int i = 0; i < house; i++) {
             int l = 0;
             int r = heat - 1;
             int c = INT_MAX;
 
-            while (l <= r) {  // Correct the condition to l <= r
+            while (l <= r) { 
                 int mid = (l + r) / 2;
                 if (heaters[mid] < houses[i]) {
                     c = min(abs(heaters[mid] - houses[i]), c);
@@ -27,7 +27,6 @@ public:
                 }
             }
             
-            // Check distances with both l and r after exiting the loop
             if (l < heat) {
                 c = min(c, abs(heaters[l] - houses[i]));
             }
