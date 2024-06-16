@@ -1,21 +1,20 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int j=0;
+        int n =prices.size();
+        int buy= prices[0];
         int p=0;
-        for(int i=1;i<prices.size();i++)
+        for(int i=1;i<n;i++)
         {
-            if(prices[j]>prices[i])
-            {
-                j=i;
-                cout<<j<<endl;
-            }
-            else if(0<prices[i]-prices[j])
-            {
-                p+=prices[i]-prices[j];
-                j=i;
-                cout<<p;
-            }
+           if(buy>prices[i])
+           {
+            buy = prices[i];
+           }
+           else
+           {
+                p+= prices[i]-buy;
+                buy=prices[i];
+           }
         }
         return p;
     }
