@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0475-heaters) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0475-heaters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0475-heaters) |
 # Math
 |  |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 # String
 |  |
 | ------- |
@@ -64,3 +67,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0078-subsets) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
