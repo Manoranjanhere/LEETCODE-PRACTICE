@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0274-h-index](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0475-heaters) |
 | [0907-koko-eating-bananas](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0907-koko-eating-bananas) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0274-h-index) |
 | [0475-heaters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0475-heaters) |
 # Math
 |  |
@@ -92,3 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+# Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0274-h-index) |
