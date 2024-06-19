@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0274-h-index) |
