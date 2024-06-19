@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 # Sliding Window
 |  |
 | ------- |
@@ -100,3 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0274-h-index) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
