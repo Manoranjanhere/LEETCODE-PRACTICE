@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 # String
 |  |
@@ -115,3 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0073-set-matrix-zeroes) |
