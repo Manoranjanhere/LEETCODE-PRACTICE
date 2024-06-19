@@ -12,13 +12,12 @@ public:
         // First pass: record all rows and columns that have zeros
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (matrix[i][j] == 0) {
-                    if (std::find(rows.begin(), rows.end(), i) == rows.end()) {
+                if (matrix[i][j] == 0) 
+                {
                         rows.push_back(i);
-                    }
-                    if (std::find(cols.begin(), cols.end(), j) == cols.end()) {
+                    
                         cols.push_back(j);
-                    }
+                    
                 }
             }
         }
