@@ -15,11 +15,9 @@ public:
    {
     right[i]= max(height[i],right[i+1]);
    }
-   int minh = INT_MAX;
    for(int i=0;i<len;i++)
    {
-    minh = min(right[i],left[i]);
-    trap=trap+(minh-height[i]);
+    trap+=(min(right[i],left[i])-height[i]);
    }
    return trap;
 }
