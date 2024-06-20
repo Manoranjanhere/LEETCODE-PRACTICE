@@ -4,7 +4,8 @@ public:
         long sum =0;
         while(x)
         {
-            sum=sum*10+x%10;
+            long rem=x%10;
+            sum=sum*10+rem;
             x/=10;
         }
         if(sum>INT_MAX||sum<INT_MIN)return 0;
