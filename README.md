@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0475-heaters) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0239-sliding-window-maximum) |
 # Binary Search
 |  |
 | ------- |
@@ -125,3 +127,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0073-set-matrix-zeroes) |
+# Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0239-sliding-window-maximum) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0239-sliding-window-maximum) |
+# Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0239-sliding-window-maximum) |
