@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0234-palindrome-linked-list) |
 # Monotonic Stack
 |  |
@@ -181,11 +182,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 # Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 # Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
