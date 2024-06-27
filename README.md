@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0073-set-matrix-zeroes) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 # Counting
 |  |
