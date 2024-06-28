@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0475-heaters) |
 | [0907-koko-eating-bananas](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0907-koko-eating-bananas) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 # Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0475-heaters) |
 | [0908-middle-of-the-linked-list](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
 # Sorting
 |  |
 | ------- |
@@ -213,3 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
+# Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2271-rearrange-array-elements-by-sign) |
