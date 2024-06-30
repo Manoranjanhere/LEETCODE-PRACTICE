@@ -16,28 +16,26 @@ public:
         int pe=preorder.size()-1;
         int is=0;
         int ie = inorder.size()-1;
+        unordered_map<int,int> mp;
+        for(int i=0;i<=ie;i++)
+        {
+                        mp[inorder[i]]=i;
+        }
         TreeNode* ans;
-        ans = build( preorder,inorder,ps,pe,is,ie);
+        ans = build( preorder,inorder,ps,pe,is,ie,mp);
         return ans;
     }
-    TreeNode* build(vector<int>& preorder, vector<int>& inorder,int ps,int pe, int is,int ie)
+    TreeNode* build(vector<int>& preorder, vector<int>& inorder,int ps,int pe, int is,int ie,unordered_map<int,int>& mp)
     {
         if(ps>pe||is>ie)
         {
             return NULL;
         }
         TreeNode*curr= new TreeNode(preorder[ps]);
-        int index=0;
-        for(int i=is;i<=ie;i++)
-        {
-            if(inorder[i]==preorder[ps])
-            {
-                index=i;
-            }
-        }
+        int index = mp[preorder[ps]];
         int left =index-is;
-        curr->left=build( preorder,inorder,ps+1,ps+left,is,index-1);
-        curr->right=build( preorder,inorder,ps+left+1,pe,index+1,ie);
+        curr->left=build( preorder,inorder,ps+1,ps+left,is,index-1,mp);
+        curr->right=build( preorder,inorder,ps+left+1,pe,index+1,ie,mp);
         return curr;
     }
 };
