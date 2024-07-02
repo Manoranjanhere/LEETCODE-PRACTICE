@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0146-lru-cache](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -273,4 +274,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
