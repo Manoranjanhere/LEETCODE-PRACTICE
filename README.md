@@ -326,8 +326,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
