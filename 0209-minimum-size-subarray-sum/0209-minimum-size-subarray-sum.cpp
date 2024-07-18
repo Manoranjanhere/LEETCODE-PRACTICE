@@ -14,7 +14,8 @@ public:
         }
         else if(sum>=target&&l<n)
         {
-            m= min(m,r-l);
+                m= min(m,r-l);
+            
             sum-=nums[l];
             l++;
         }
