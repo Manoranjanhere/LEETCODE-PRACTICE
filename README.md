@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+| [2507-number-of-common-factors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2507-number-of-common-factors) |
 ## Memoization
 |  |
 | ------- |
@@ -395,4 +396,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
