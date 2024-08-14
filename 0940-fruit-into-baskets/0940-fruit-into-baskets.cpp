@@ -1,38 +1,24 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int n=fruits.size();
-
-        int maxx =0;
-        int curr_max=0;
-        int lastcount=0;
-        int lf=-1;
-        int slf=-1;
-        for(auto i:fruits)
-        {
-            if(i==lf||i==slf)
+        map<int,int> mp;
+        int start=0;
+        int m=0;
+        int n = fruits.size();
+       for(int i=0;i<n;i++)
+       {
+            mp[fruits[i]]++;
+            while(mp.size()>2)
             {
-                curr_max++;
+                mp[fruits[start]]--;
+                if(mp[fruits[start]]==0)
+                {
+                    mp.erase(fruits[start]);
+                }
+                start++;
             }
-            else
-            {
-                curr_max=lastcount+1;
-            }
-            if(i==lf)
-            {
-                lastcount++;
-            }
-            else
-            {
-                lastcount=1;
-            }
-            if(i!=lf)
-            {
-                slf=lf;
-                lf=i;
-            }
-            maxx=max(maxx,curr_max);
-        }
-        return maxx;
+            m=max(m,(i-start+1));
+       }
+       return m;
     }
 };
