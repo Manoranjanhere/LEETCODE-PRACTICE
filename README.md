@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
+| [0125-valid-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0318-maximum-product-of-word-lengths) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0567-permutation-in-string) |
