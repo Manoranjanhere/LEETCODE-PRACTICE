@@ -5,6 +5,6 @@
  */
 var map = function(arr, fn) {
     let newarr=[];
-    arr.forEach((it,index)=>newarr.push(fn(it,index)));
+    arr.forEach((it,ind)=>newarr.push(fn(it,ind)));
     return newarr;
 };
