@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0051-n-queens) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
