@@ -29,7 +29,7 @@ public:
                     l=mid+1;
                 }
             }
-            else if(nums[mid]<nums[last]&&nums[mid]<target&&nums[last]>=target)
+            else if(nums[mid]<target&&nums[r]>=target)
             {
                 l=mid+1;
             }
