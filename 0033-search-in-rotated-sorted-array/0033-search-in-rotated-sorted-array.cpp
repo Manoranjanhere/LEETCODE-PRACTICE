@@ -5,7 +5,6 @@ public:
         int first =l;
         int r= nums.size()-1;
         int last =r;
-        
         while(l<=r)
         {
             int mid = (l+r)/2;
