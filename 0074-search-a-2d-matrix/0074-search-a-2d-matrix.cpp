@@ -19,7 +19,7 @@ public:
                 l=mid+1;
             }
         }
-        int row = l;
+        int row = r;
         l=0;
         while(l<=lc)
         {
