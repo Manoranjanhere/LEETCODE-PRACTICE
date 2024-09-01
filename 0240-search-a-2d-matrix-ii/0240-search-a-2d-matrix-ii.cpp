@@ -1,24 +1,25 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        if (matrix.empty() || matrix[0].empty()) return false; // Check if matrix is empty
-
-        int rows = matrix.size();
-        int cols = matrix[0].size();
-        int row = 0, col = cols - 1; // Start from the top-right corner
-
-        while (row < rows && col >= 0) {
-            if (matrix[row][col] == target) {
-                return true; // Target found
-            } 
-            else if (matrix[row][col] > target) {
-                col--; // Move left
-            } 
-            else {
-                row++; // Move down
+        int rowl=0;
+        int coll=0;
+        int rowr=matrix.size()-1;
+        int colr=matrix[0].size()-1;
+        while(rowl<=rowr&&colr>=0)
+        {
+            if(matrix[rowl][colr]==target)
+            {
+                return true;
+            }
+            else if(matrix[rowl][colr]>target)
+            {
+                colr--;
+            }
+            else
+            {
+                rowl++;
             }
         }
-        
-        return false; // Target not found
+        return false;
     }
 };
