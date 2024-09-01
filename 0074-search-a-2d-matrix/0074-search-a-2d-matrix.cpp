@@ -20,7 +20,6 @@ public:
             }
         }
         int row = l;
-        if (row >= matrix.size()) return false;
         l=0;
         while(l<=lc)
         {
