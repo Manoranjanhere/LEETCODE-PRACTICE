@@ -9,8 +9,7 @@ public:
             sum+=chalk[i];
         }
         k%=sum;
-        while(k>0)
-        {
+       
             for(int i=0;i<n;i++)
             {
                 if(k>=chalk[i])
@@ -22,7 +21,6 @@ public:
                     return i;
                 }
             }
-        }
         return 0;
     }
 };
