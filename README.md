@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1250-longest-common-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
 ## Dynamic Programming
 |  |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Heap (Priority Queue)
 |  |
