@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2155-find-missing-observations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0940-fruit-into-baskets) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0146-lru-cache) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
