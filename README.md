@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0075-sort-colors) |
@@ -519,4 +521,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
