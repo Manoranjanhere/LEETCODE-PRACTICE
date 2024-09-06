@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0567-permutation-in-string) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
