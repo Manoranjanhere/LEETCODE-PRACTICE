@@ -10,7 +10,7 @@ public:
            {
             buy = prices[i];
            }
-           if(p<prices[i]-buy)
+           else if(p<prices[i]-buy)
            {
                 p= prices[i]-buy;
            }
