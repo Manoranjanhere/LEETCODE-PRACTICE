@@ -27,7 +27,7 @@ public:
             {
                 TreeNode* curr= que.front();
                 que.pop();
-                if(curr->left==NULL&&curr->right==NULL)
+                if(curr->left==NULL&& curr->right==NULL)
                 {
                     return c;
                 }
