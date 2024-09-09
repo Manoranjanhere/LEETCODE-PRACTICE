@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2411-spiral-matrix-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2411-spiral-matrix-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
