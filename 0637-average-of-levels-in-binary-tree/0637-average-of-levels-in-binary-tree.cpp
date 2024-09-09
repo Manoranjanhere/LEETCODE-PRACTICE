@@ -22,7 +22,6 @@ public:
         while(!que.empty())
         {
             int n = que.size();
-            vector<int> v;
             double sum=0;
             for(int i=0;i<n;i++)
             {
