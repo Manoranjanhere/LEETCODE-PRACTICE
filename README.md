@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -492,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0967-minimum-falling-path-sum) |
@@ -563,4 +567,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0931-maximum-frequency-stack) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
