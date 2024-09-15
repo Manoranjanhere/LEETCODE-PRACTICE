@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0906-walking-robot-simulation) |
 | [0931-maximum-frequency-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0940-fruit-into-baskets) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1250-longest-common-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1250-longest-common-subsequence) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0338-counting-bits) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Combinatorics
 |  |
@@ -535,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Enumeration
 |  |
