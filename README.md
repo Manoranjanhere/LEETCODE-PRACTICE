@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0318-maximum-product-of-word-lengths) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0747-min-cost-climbing-stairs) |
@@ -487,11 +489,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
@@ -502,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
