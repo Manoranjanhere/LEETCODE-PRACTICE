@@ -9,16 +9,13 @@ public:
     }
     void backtrack(vector<int>& nums,int start, vector<int>&path,vector<vector<int>>& result)
     {
-        if(start==nums.size())
+        result.push_back(path);
+        for(int i=start;i<nums.size();i++)
         {
-            result.push_back(path);
-            return;
-        }
-        
-            backtrack(nums,start+1,path,result);
-            path.push_back(nums[start]);
-            backtrack(nums,start+1,path,result);
+            path.push_back(nums[i]);
+            backtrack(nums,i+1,path,result);
             path.pop_back();
+        }
         
     }
     
