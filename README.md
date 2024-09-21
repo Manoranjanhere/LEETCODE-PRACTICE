@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -662,4 +663,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
