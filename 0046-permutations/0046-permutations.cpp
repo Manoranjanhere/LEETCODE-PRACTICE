@@ -19,6 +19,4 @@ public:
             swap(nums[index],nums[i]);
         }
     }
-    
-
 };
