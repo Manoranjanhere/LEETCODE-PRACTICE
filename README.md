@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
 | [2755-extra-characters-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
 | [2755-extra-characters-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -676,4 +679,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
