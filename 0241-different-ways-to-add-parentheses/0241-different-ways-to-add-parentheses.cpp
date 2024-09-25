@@ -26,7 +26,6 @@ public:
        if(ans.size()==0)
        {
            ans.push_back(stoi(s));
-        return ans; 
        }
        return ans;
     }
