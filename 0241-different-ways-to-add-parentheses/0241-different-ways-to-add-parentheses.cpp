@@ -4,11 +4,7 @@ public:
        int n = s.length();
        vector<int> ans;
        if(n==0) return ans;
-       if(n==1)
-       {
-        ans.push_back(stoi(s));
-        return ans;
-       }
+       
        for(int i=0;i<n;i++)
        {
         if(s[i]=='+'||s[i]=='-'||s[i]=='*')
