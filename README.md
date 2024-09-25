@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0046-permutations) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0214-shortest-palindrome) |
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
