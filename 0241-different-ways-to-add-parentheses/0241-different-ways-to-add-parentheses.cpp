@@ -1,29 +1,37 @@
 class Solution {
 public:
     vector<int> diffWaysToCompute(string s) {
-        vector<int> ans;
-        for(int i=0;i<s.size();i++)
+       int n = s.length();
+       vector<int> ans;
+       if(n==0) return ans;
+       if(n==1)
+       {
+        ans.push_back(stoi(s));
+        return ans;
+       }
+       for(int i=0;i<n;i++)
+       {
+        if(s[i]=='+'||s[i]=='-'||s[i]=='*')
         {
-            if(s[i]=='+'||s[i]=='-'||s[i]=='*')
+            vector<int> ans1= diffWaysToCompute(s.substr(0,i));
+            vector<int> ans2=diffWaysToCompute(s.substr(i+1));          
+            for(int l:ans1)
             {
-                vector<int> asn1 = diffWaysToCompute(s.substr(0,i));
-                vector<int> asn2 = diffWaysToCompute(s.substr(i+1));
-            
-                for(int j=0;j<asn1.size();j++)
+                for(int r:ans2)
                 {
-                    for(int k=0;k<asn2.size();k++)
-                    {
-                        if(s[i]=='+') ans.emplace_back(asn1[j]+asn2[k]);
-                        if(s[i]=='-') ans.emplace_back(asn1[j]-asn2[k]);
-                        if(s[i]=='*') ans.emplace_back(asn1[j]*asn2[k]);
-                    }
+                    if(s[i]=='+') ans.push_back(l+r);
+                    if(s[i]=='-') ans.push_back(l-r);
+                    if(s[i]=='*') ans.push_back(l*r);
                 }
+                
             }
         }
-        if(ans.size()==0)
-        {
-            ans.push_back(stoi(s));
-        }
-        return ans;
+       }
+       if(ans.size()==0)
+       {
+           ans.push_back(stoi(s));
+        return ans; 
+       }
+       return ans;
     }
 };
