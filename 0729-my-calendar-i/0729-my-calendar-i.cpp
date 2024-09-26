@@ -1,19 +1,19 @@
 class MyCalendar {
-private:
-    set<pair<int, int>> events;
-
 public:
-    MyCalendar() {}
-
+    vector<pair<int,int>>booki;
+    MyCalendar() {
+        
+    }
     bool book(int start, int end) {
-        auto existingEventIterator = events.upper_bound({start, end});
-        if (existingEventIterator != events.end() &&
-            existingEventIterator->second < end) {
-            return false;
-        } else {
-            events.insert({end, start});
-            return true;
+        for(auto i:booki)
+        {
+            if(max(i.first,start)<min(i.second,end))
+            {
+                return false;
+            }
         }
+        booki.push_back({start,end});
+        return true;
     }
 };
 
