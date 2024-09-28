@@ -1,8 +1,8 @@
-class MyCircularDeque {
+class MyCircularDeque 
+{
 public:
     vector<int> v;
     int front, back, sizee, capacity;
-
     MyCircularDeque(int k) {
         v = vector<int>(k, -1);
         front = 0;
@@ -10,22 +10,17 @@ public:
         sizee = 0; 
         capacity = k;
     }
-
     bool insertFront(int value) {
         if (isFull()) {
             return false;
         }
-
         if (front == 0) {
             front = capacity - 1; 
         } 
         else {
             front--;
         }
-
-
         v[front] = value;
-
         sizee++;
         return true;
     }
