@@ -1,8 +1,10 @@
-/**
+/** 
  * @param {Function} fn
  * @return {Object}
  */
-Array.prototype.groupBy = function(fn) {
+
+Array.prototype.groupBy = function(fn)
+{
     return this.reduce((grouped,item)=>
     {
         const key = fn(item);
