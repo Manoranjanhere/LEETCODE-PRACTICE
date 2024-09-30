@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0800-letter-case-permutation) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0940-fruit-into-baskets) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
 | [2755-extra-characters-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1250-longest-common-subsequence) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2494-sum-of-prefix-scores-of-strings) |
