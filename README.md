@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0859-design-circular-deque) |
 | [0931-maximum-frequency-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0931-maximum-frequency-stack) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0931-maximum-frequency-stack) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1497-design-a-stack-with-increment-operation) |
 ## String
 |  |
 | ------- |
