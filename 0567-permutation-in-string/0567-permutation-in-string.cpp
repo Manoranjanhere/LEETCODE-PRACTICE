@@ -22,7 +22,5 @@ public:
             if(c2==c1) return true;
         }
         return false;
-
-
     }
 };
