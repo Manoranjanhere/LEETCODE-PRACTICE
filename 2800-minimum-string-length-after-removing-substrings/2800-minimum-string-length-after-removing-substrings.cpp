@@ -1,23 +1,19 @@
 class Solution {
 public:
     int minLength(string s) {
-    while(true)
+    stack<char> st;
+    for(char ch:s)
     {
-        size_t ind1= s.find("AB");
-        size_t ind2= s.find("CD");
-        if(ind1==string::npos&&ind2==string::npos)
+        if(!st.empty()&&((st.top()=='A'&&ch=='B')||(st.top()=='C'&&ch=='D')))
         {
-            return s.length();
+            st.pop();
         }
-            if(ind1!=string::npos)
-            {
-                s=s.substr(0,ind1)+s.substr(ind1+2);
-            }
-            else if(ind2!=string::npos)
-            {
-                s=s.substr(0,ind2)+s.substr(ind2+2);
-            }
-        
+        else
+        {
+            st.push(ch);
+        }
+
     }
+    return st.size();
     }
 };
