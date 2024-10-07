@@ -16,11 +16,11 @@ public:
         mp[8]="tuv";
         mp[9]="wxyz";
         ans.push_back("");
-       for(char i:digits)
-       {
+        for(int i:digits)
+        {
             vector<string> temp;
             string a = mp[i-'0'];
-            for(string j:ans)
+            for(auto j: ans)
             {
                 for(char ch:a)
                 {
@@ -28,7 +28,8 @@ public:
                 }
             }
             ans.swap(temp);
-       }
-       return ans;
+
+        }
+        return ans;
     }
 };
