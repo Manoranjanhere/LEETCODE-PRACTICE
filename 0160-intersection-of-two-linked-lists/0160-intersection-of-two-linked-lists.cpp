@@ -50,15 +50,7 @@ public:
             if(headA==headB)
             {
                 temp=headA;
-                while(headA!=NULL&&headB!=NULL&&headA==headB)
-                {
-                    headA=headA->next;
-                    headB=headB->next;
-                }
-                if(headA==NULL&&headB==NULL)
-                {
-                    return temp;
-                }
+               return temp;
             }
             headA=headA->next;
             headB=headB->next;
