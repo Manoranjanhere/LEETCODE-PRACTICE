@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0318-maximum-product-of-word-lengths) |
 | [0327-count-of-range-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0432-all-oone-data-structure](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0729-my-calendar-i) |
@@ -655,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0731-my-calendar-ii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1435-xor-queries-of-a-subarray) |
