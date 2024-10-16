@@ -19,5 +19,4 @@ public:
             solve(nums,target-nums[l],c,l+1);
             solve(nums,target+nums[l],c,l+1);
     }
-
 };
