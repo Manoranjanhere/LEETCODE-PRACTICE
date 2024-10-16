@@ -555,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1250-longest-common-subsequence) |
+| [1304-longest-happy-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -703,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Monotonic Stack
@@ -717,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2616-maximal-score-after-applying-k-operations) |
