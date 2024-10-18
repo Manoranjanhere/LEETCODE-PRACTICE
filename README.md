@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0800-letter-case-permutation) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Combinatorics
 |  |
@@ -672,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2507-number-of-common-factors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
