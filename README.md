@@ -529,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1197-parsing-a-boolean-expression) |
 ## Math
 |  |
 | ------- |
