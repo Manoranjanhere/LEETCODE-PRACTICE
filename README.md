@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0078-subsets) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
