@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0162-find-peak-element) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0202-happy-number) |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
@@ -628,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bit Manipulation
 |  |
@@ -803,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2494-sum-of-prefix-scores-of-strings) |
