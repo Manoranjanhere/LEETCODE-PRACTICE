@@ -1,15 +1,17 @@
 class Solution {
 public:
   int maxProduct(vector<int>& A) {
+    int aage=1;
+    int peeche=1;
     int n = A.size();
-    double ans = INT_MIN;
-    double pr = 1, su = 1;
-    for (int i=0; i<n; ++i) {
-      pr *= A[i];
-      su *= A[n-1-i];
-      ans = max({ans, pr, su});
-      if (pr == 0) pr = 1;
-      if (su == 0) su = 1;
+    int ans = INT_MIN;
+    for(int i=0;i<n;i++)
+    {
+        aage *=A[i];
+        peeche*=A[n-i-1];
+        ans=max({ans,aage,peeche});
+        if(aage==0)aage=1;
+        if(peeche==0)peeche=1;
     }
     return ans;
   }
