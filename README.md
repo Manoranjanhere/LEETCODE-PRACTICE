@@ -519,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -605,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
