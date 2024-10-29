@@ -1,36 +1,30 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include <unordered_map>
-
 class Solution {
 public:
-    bool wordBreak(std::string s, std::vector<std::string>& wordDict) {
-        std::unordered_map<std::string, bool> dp;
-        return solve(s, wordDict, dp);
+    bool wordBreak(string s, vector<string>& wordDict) {
+        unordered_map<string,bool>dp;
+        return solve(s,wordDict,dp);
     }
-
-private:
-    bool solve(std::string s, std::vector<std::string>& wordDict, std::unordered_map<std::string, bool>& dp) {
-        if (s.empty()) {
-            return true; // Base case: If s is empty, we've successfully segmented it
+    bool solve(string s, vector<string>& wordDict,unordered_map<string,bool>& dp)
+    {
+        if(s=="")
+        {
+            return true;
         }
-
-        if (dp.find(s) != dp.end()) {
-            return dp[s]; // Return memoized result if we already computed this substring
+        if(dp.find(s)!=dp.end())
+        {
+            return dp[s];
         }
-
-        for (const std::string& word : wordDict) {
-            if (s.substr(0, word.size()) == word) { // Check if s starts with the word
-                std::string remainder = s.substr(word.size()); // Remaining substring after removing the word
-                if (solve(remainder, wordDict, dp)) {
-                    dp[s] = true; // Memoize and return true if we found a valid segmentation
-                    return true;
+        for(int i=0;i<=s.length();i++)
+        {
+            string prefix = s.substr(0,i);
+            if(find(wordDict.begin(),wordDict.end(),prefix)!=wordDict.end())
+            {
+                if(solve(s.substr(i),wordDict,dp))
+                {
+                    return dp[s]=true;
                 }
             }
         }
-
-        dp[s] = false; // Memoize and return false if no segmentation found
-        return false;
+            return dp[s]=false;
     }
 };
