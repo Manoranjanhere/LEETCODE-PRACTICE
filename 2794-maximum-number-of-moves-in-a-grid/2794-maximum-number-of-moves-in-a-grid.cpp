@@ -6,7 +6,7 @@ public:
         int col = grid[0].size();
         vector<vector<int>> memo(row,vector<int>(col,-1));
         int maxMoves = 0;
-    for (int i = 0; i < row; i++) { // Loop through all rows in the first column
+    for (int i = 0; i < row; i++) { 
         maxMoves = max(maxMoves, solve(grid, row, col, i, 0, memo));
     }
     return maxMoves;
