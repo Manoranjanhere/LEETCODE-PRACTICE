@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0882-peak-index-in-a-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -779,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2616-maximal-score-after-applying-k-operations) |
