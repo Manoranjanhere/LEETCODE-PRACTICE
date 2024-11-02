@@ -3,7 +3,7 @@ public:
     bool isCircularSentence(string sentence) 
     {
         int n = sentence.length();
-        if(n==1&&sentence[0]==sentence[n-1])return true;
+        // if(n==1&&sentence[0]==sentence[n-1])return true;
         if(sentence[0]!=sentence[n-1])return false;
         for(int i=1;i<n-1;i++)
         {
