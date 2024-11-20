@@ -1,44 +1,33 @@
 class Solution {
 public:
     int takeCharacters(string s, int k) {
-        int n = s.size();
-        int l = 0, r = 0, m;
-        int ans = n; 
-        int a = 0, b = 0, c = 0;
-
-        // Count total occurrences of 'a', 'b', and 'c'
-        int totalA = 0, totalB = 0, totalC = 0;
-        for (char ch : s) {
-            if (ch == 'a') totalA++;
-            else if (ch == 'b') totalB++;
-            else if (ch == 'c') totalC++;
+        
+       
+        
+        
+      int ca=0,cb=0,cc=0;
+        int n=s.size();
+        int ans=n;
+        for(int i=0;i<n;i++){
+            if(s[i]=='a') ca++;
+            if(s[i]=='b') cb++;
+            if(s[i]=='c') cc++;
         }
-
-        // If there are not enough 'a', 'b', or 'c', return -1
-        if (totalA < k || totalB < k || totalC < k) {
-            return -1;
-        }
-
-        // Reset counters and start sliding window
-        a = 0, b = 0, c = 0;
-        while (r < n) {
-            if (s[r] == 'a') a++;
-            if (s[r] == 'b') b++;
-            if (s[r] == 'c') c++;
-            r++;
-
-            // Shrink window if it exceeds the limits
-            while (a > totalA - k || b > totalB - k || c > totalC - k) {
-                if (s[l] == 'a') a--;
-                if (s[l] == 'b') b--;
-                if (s[l] == 'c') c--;
-                l++;
+        if(ca<k||cb<k||cc<k) return -1;
+        int i=n-1,j=n-1;
+        while(i>=0){
+            if(s[i]=='a') ca--;
+            if(s[i]=='b') cb--;
+            if(s[i]=='c') cc--;
+            while(ca<k||cb<k||cc<k){
+            if(s[j]=='a') ca++;
+            if(s[j]=='b') cb++;
+            if(s[j]=='c') cc++;
+                j--;
             }
-
-            // Update the answer with the minimum number of characters to remove
-            ans = min(ans, n - (r - l));
+            ans=min(ans,i+n-1-j); i--;
         }
-
         return ans;
+    
     }
 };
