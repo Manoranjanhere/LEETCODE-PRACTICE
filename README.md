@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2155-find-missing-observations) |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0680-valid-palindrome-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1972-rotating-the-box](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2411-spiral-matrix-iv) |
