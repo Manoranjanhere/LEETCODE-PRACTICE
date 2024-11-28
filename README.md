@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1484-linked-list-in-binary-tree) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -771,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
@@ -847,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1304-longest-happy-string) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Monotonic Stack
@@ -912,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0210-course-schedule-ii) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Topological Sort
 |  |
@@ -952,4 +957,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
