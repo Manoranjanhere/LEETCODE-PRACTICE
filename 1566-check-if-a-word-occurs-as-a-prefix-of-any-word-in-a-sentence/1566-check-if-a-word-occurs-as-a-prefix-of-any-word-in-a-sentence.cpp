@@ -24,13 +24,12 @@ public:
                 s="";
             }
         }
-        if(s.length()>=n)
-                {
+        
                     if(searchWord==s.substr(0,n))
                     {
                         return i;
                     }
-                }
+                
                 return -1;
     }
 };
