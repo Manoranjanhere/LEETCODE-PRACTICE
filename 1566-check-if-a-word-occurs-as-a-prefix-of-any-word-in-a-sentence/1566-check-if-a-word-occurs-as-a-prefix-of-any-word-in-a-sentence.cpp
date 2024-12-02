@@ -14,13 +14,12 @@ public:
             }
             else
             {
-                if(s.length()>=n)
-                {
+                
                     if(searchWord==s.substr(0,n))
                     {
                         return i;
                     }
-                }
+                
                 i++;
                 s="";
             }
