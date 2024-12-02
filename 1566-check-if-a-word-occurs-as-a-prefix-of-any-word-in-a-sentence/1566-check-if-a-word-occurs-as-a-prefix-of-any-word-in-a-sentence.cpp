@@ -4,6 +4,8 @@ public:
     {
         string s="";
         vector<string> store;
+        int n = searchWord.length();
+        int i=1;
         for(char ch :sentence)
         {
             if(ch!=' ')
@@ -12,24 +14,24 @@ public:
             }
             else
             {
-                store.push_back(s);
+                if(s.length()>=n)
+                {
+                    if(searchWord==s.substr(0,n))
+                    {
+                        return i;
+                    }
+                }
+                i++;
                 s="";
             }
         }
-        store.push_back(s);
-    
-    int n = searchWord.length();
-
-    for(int i=0;i<store.size();i++)
-    {
-        if(store[i].length()>=n)
-        {
-            if(searchWord==store[i].substr(0,n))
-            {
-                return i+1;
-            }
-        }
-    }
-    return -1;
+        if(s.length()>=n)
+                {
+                    if(searchWord==s.substr(0,n))
+                    {
+                        return i;
+                    }
+                }
+                return -1;
     }
 };
