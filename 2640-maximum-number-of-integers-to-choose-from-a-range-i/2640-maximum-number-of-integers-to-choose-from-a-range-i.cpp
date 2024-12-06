@@ -8,7 +8,7 @@ public:
         int sum=0;
         for(int i=1;i<=n;i++)
         {
-            if(a.find(i)==a.end())
+            if(!a.count(i))
             {
                 sum+=i;
                 if(sum>maxSum)
