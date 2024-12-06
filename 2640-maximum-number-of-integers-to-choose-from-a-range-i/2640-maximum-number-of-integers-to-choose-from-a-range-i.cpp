@@ -3,11 +3,8 @@ public:
     int maxCount(vector<int>& banned, int n, int maxSum) {
         int c=0;
         int s = banned.size();
-        unordered_set<int> a;
-        for(int i=0;i<s;i++)
-        {
-            a.insert(banned[i]);
-        }
+        unordered_set<int> a(banned.begin(),banned.end());
+        
         int sum=0;
         for(int i=1;i<=n;i++)
         {
