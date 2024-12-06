@@ -4,7 +4,6 @@ public:
         int c=0;
         int s = banned.size();
         unordered_set<int> a(banned.begin(),banned.end());
-        
         int sum=0;
         for(int i=1;i<=n;i++)
         {
