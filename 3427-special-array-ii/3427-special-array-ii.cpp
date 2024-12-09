@@ -13,7 +13,6 @@ public:
                 c++;
             }
             pref[i]=c;
-            cout<<pref[i];
         }
         for(int i=0;i<queries.size();i++)
         {
