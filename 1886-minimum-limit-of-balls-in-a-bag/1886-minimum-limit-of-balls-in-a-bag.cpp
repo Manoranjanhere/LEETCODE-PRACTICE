@@ -1,27 +1,38 @@
 class Solution {
 public:
-    bool canDivide(vector<int>& nums, int maxBalls, int maxOperations) {
-        int ops = 0;
-        for (int n : nums) {
-            ops += (n + maxBalls - 1) / maxBalls - 1;
-            if (ops > maxOperations) return false;
-        }
-        return true;
-    }
-    
-    int minimumSize(vector<int>& nums, int maxOperations) {
-        int left = 1, right = *max_element(nums.begin(), nums.end());
-        int res = right;
-        
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (canDivide(nums, mid, maxOperations)) {
-                right = mid;
-                res = right;
-            } else {
-                left = mid + 1;
+    bool possible(int mid,vector<int> nums,int maxops)
+    {
+        int ops=0;
+        if(mid==0)return false;
+        for(int i:nums)
+        {
+
+            ops+=(int)ceil((double)i/mid)-1;
+            if(ops>maxops)
+            {
+                return false;
             }
         }
-        return res;
+            return true;
+    }
+    int minimumSize(vector<int>& nums, int maxOperations) 
+    {
+        int l=0;
+        int r = *max_element(nums.begin(),nums.end());
+        int ans=r;
+        while(l<=r)
+        {
+            int mid = l+(r-l)/2;
+            if(possible(mid,nums,maxOperations))
+            {
+                ans=mid;
+                r=mid-1;
+            }
+            else
+            {
+                l=mid+1;
+            }
+        }
+        return ans;
     }
 };
