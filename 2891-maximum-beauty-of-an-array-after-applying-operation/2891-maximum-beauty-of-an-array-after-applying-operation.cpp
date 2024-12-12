@@ -1,22 +1,26 @@
 class Solution {
 public:
     static int maximumBeauty(vector<int>& nums, int k) {
-        int freq[100001]={0};
-        int xMax=0, xMin=1e6;
-        for(int x: nums){
-            freq[x]++;
-            xMax=max(x, xMax);
-            xMin=min(x, xMin);
-        }
-        int cnt=0, maxCnt=0;
-        for(int l=xMin, r=xMin; r<=xMax; r++){
-            cnt+=freq[r];
-            while(r-l>2*k){
-                cnt-=freq[l];
-                l++;
+        int n = *max_element(nums.begin(),nums.end());
+        vector<int> st(n+k+2,0);
+        for(int i:nums)
+        {
+            if(i-k>0)
+            {
+                st[i-k]+=1;
             }
-            maxCnt=max(maxCnt, cnt);
+            else
+            {
+                st[0]+=1;
+            }
+            st[i+k+1]-=1;
         }
-        return maxCnt;
+        int mx=0;
+        for(int i=1;i<n+k+1;i++)
+        {
+            st[i]+=st[i-1];
+            mx=max(mx,st[i]);
+        }
+        return mx;
     }
 };
