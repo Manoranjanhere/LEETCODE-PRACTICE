@@ -1,20 +1,14 @@
 class Solution {
 public:
-    vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        for(int i=0;i<k;i++)
+    vector<int> getFinalState(vector<int>& nums, int k, int multiplier) 
+    {
+        while(k--)
         {
-            int min = INT_MAX;
-            int index=0;
-            for(int j=0;j<nums.size();j++)
-            {
-                if(nums[j]<min)
-                {
-                    min=nums[j];
-                    index=j;
-                }
-            }
+            auto it = min_element(nums.begin(), nums.end());
+            int index = distance(nums.begin(), it);
             nums[index]*=multiplier;
         }
         return nums;
+
     }
 };
