@@ -1,42 +1,37 @@
 class Solution {
 public:
-    string repeatLimitedString(string s, int r) {
-        int n = s.length();
-        string ans="";
-        map<char,int, greater<int>>mp;
-        for(char ch:s)
-        {
-            mp[ch]++;
+    string repeatLimitedString(string s, int repeatLimit) {
+        vector<int> freq(26, 0);
+        for (char ch : s) {
+            freq[ch - 'a']++;
         }
-        while(!mp.empty())
-        {
-            auto i = mp.begin();
-            char st=i->first;
-            int fre=i->second; 
-            int count = min(fre, r);
-            ans.append(count, st);
-            mp[st] -= count;
-            if(mp[st]==0)
-            {
-                mp.erase(st);
+
+        string result;
+        int currentCharIndex = 25;  // Start from the largest character
+        while (currentCharIndex >= 0) {
+            if (freq[currentCharIndex] == 0) {
+                currentCharIndex--;
+                continue;
             }
-            else
-            {
-                if(mp.size()<=1)
-                {
-                    return ans;
+
+            int use = min(freq[currentCharIndex], repeatLimit);
+            result.append(use, 'a' + currentCharIndex);
+            freq[currentCharIndex] -= use;
+
+            if (freq[currentCharIndex] >
+                0) {  // Need to add a smaller character
+                int smallerCharIndex = currentCharIndex - 1;
+                while (smallerCharIndex >= 0 && freq[smallerCharIndex] == 0) {
+                    smallerCharIndex--;
                 }
-                else
-                {
-                    auto nextele=next(mp.begin());
-                    ans+=nextele->first;
-                    if(--nextele->second==0)
-                    {
-                        mp.erase(nextele);
-                    }
+                if (smallerCharIndex < 0) {
+                    break;
                 }
+                result.push_back('a' + smallerCharIndex);
+                freq[smallerCharIndex]--;
             }
         }
-        return ans;
+
+        return result;
     }
 };
