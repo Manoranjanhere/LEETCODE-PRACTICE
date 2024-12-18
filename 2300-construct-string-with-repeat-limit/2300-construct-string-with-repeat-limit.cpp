@@ -14,7 +14,7 @@ public:
             char st=i->first;
             int fre=i->second; 
             int count = min(fre, r);
-            ans.append(string(count, st));
+            ans.append(count, st);
             mp[st] -= count;
             if(mp[st]==0)
             {
