@@ -1,45 +1,41 @@
 class Solution {
 public:
-    string repeatLimitedString(string s, int repeatLimit) {
+    string repeatLimitedString(string s, int r) {
         int n = s.length();
         string ans="";
-        sort(s.rbegin(),s.rend());
-        int i=1;
-        int c=1;
-        ans+=s[0];
-        int j=0;
-        while(i<n)
+        map<char,int, greater<int>>mp;
+        for(char ch:s)
         {
-            if(s[i]==s[i-1])
+            mp[ch]++;
+        }
+        while(!mp.empty())
+        {
+            auto i = mp.begin();
+            char st=i->first;
+            int fre=i->second; 
+            int count = min(fre, r);
+            ans.append(string(count, st));
+            mp[st] -= count;
+            if(mp[st]==0)
             {
-                c++;
+                mp.erase(st);
             }
             else
             {
-                c=1;
-            }
-            if(c>repeatLimit)
-            {
-                if(j<=i)
-                {
-                    j=i+1;
-                }
-                if(j==n)
+                if(mp.size()<=1)
                 {
                     return ans;
                 }
-                while(s[j]==s[i])
+                else
                 {
-                    j++;
-                    if(j==n)
+                    auto nextele=next(mp.begin());
+                    ans+=nextele->first;
+                    if(--nextele->second==0)
                     {
-                        return ans;
+                        mp.erase(nextele);
                     }
                 }
-                swap(s[i],s[j]);
             }
-            ans+=s[i];
-            i++;
         }
         return ans;
     }
