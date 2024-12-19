@@ -9,10 +9,6 @@ public:
             sum+=i;
             pref_sum.push_back(sum);
         }
-        for(int i:pref_sum)
-        {
-            cout<<i<<" ";
-        }
         sort(arr.begin(),arr.end());
         int c=0;
         sum=0;
