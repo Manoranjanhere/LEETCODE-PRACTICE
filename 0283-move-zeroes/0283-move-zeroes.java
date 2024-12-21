@@ -6,14 +6,10 @@ class Solution {
         {
             if(nums[i]!=0)
             {
+                int temp=nums[in];
                 nums[in++]=nums[i];
-
+                nums[i]=temp;
             }
         }
-        for(int i= in ;i<n;i++)
-        {
-            nums[i]=0;
-        }
-        
     }
 }
