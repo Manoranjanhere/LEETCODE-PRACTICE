@@ -16,25 +16,32 @@ public:
         if(root==NULL)return ans;
         queue<TreeNode*> q;
         q.push(root);
+        ans.push_back(root->val);
         while(!q.empty())
         {
             int n = q.size();
+            cout<<n;
             int m=INT_MIN;
             for(int i=0;i<n;i++)
             {
+                cout<<"vh";
                 auto top = q.front();
                 q.pop();
-                m = max(m, top->val);
                 if(top->left)
                 {
+                    m=max(m,top->left->val);
                     q.push(top->left);
                 }
                 if(top->right)
                 {
+                    m=max(m,top->right->val);
                     q.push(top->right);
                 }
             }
-            ans.push_back(m);
+            if(!q.empty())
+            {
+                ans.push_back(m);
+            }
         }
         return ans;
     }
