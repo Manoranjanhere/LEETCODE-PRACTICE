@@ -13,7 +13,7 @@ public:
             }
             else
             {
-                prefsum.push_back(values[i-1]+i-1);
+                prefsum.push_back(prefsum[i-1]);
             }
         }
         for(int i=1;i<n;i++)
