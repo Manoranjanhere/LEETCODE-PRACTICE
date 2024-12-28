@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0731-my-calendar-ii) |
@@ -763,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0747-min-cost-climbing-stairs) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0967-minimum-falling-path-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0967-minimum-falling-path-sum) |
