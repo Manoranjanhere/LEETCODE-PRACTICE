@@ -13,9 +13,10 @@ public:
             }
             make.push_back(i);
         }
+        int sub;
         for(auto i:queries)
         {
-            int sub=0;
+            sub=0;
             if(i[0]!=0)
             {
                 sub=make[i[0]-1];
