@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> vowelStrings(vector<string>& words, vector<vector<int>>& queries) {
         int n = words.size();
-        cout<<n;
         vector<int> make;
         int i=0;
         vector<int> ans;
@@ -13,10 +12,6 @@ public:
                 i++;
             }
             make.push_back(i);
-        }
-        for(int i:make)
-        {
-            cout<<i<<" ";
         }
         for(auto i:queries)
         {
