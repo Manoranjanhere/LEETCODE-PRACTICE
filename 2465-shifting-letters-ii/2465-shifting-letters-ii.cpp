@@ -31,7 +31,6 @@ public:
         {
             work[i]+=work[i-1];
             work[i]%=26;
-            cout<<work[i]<<" ";
         }
         int i=0;
         for(char c:s)
