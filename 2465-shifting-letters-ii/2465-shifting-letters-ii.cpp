@@ -26,29 +26,16 @@ public:
                         }
             }
         }
-        work[0]%=26;
         for(int i=1;i<n;i++)
         {
             work[i]+=work[i-1];
-            work[i]%=26;
         }
-        int i=0;
-        for(char c:s)
+        for(int i=0;i<n;i++)
         {
-            int st =static_cast<int>(c)+work[i];
-            if(st<97)
-            {
-                ans+=static_cast<char>(122-(96-st));
-            }
-            else if(st>122)
-            {
-                ans+=static_cast<char>((st-122)+96);
-            }
-            else
-            {
-                ans+=static_cast<char>(st);
-            }
-            i++;
+            int shift = work[i]%26;
+            int new_char = ((s[i] - 'a' + shift) % 26 + 26) % 26 + 'a';
+ans += static_cast<char>(new_char);
+
         }
         return ans;
     }
