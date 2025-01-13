@@ -3,6 +3,7 @@ public:
     bool canConstruct(string s, int k) {
         unordered_map<char,int> mp;
         if(s.length()<k)return false;
+        if(s.length()==k)return true;
         for(char ch:s)
         {
             mp[ch]++;
@@ -15,13 +16,6 @@ public:
                 c++;
             }
         }
-        if(c>k)
-        {
-            return false;
-        }
-        else
-        {
-            return true;
-        }
+        return(c<=k);
     }
 };
