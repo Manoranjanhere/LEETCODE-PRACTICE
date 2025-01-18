@@ -1,63 +1,60 @@
 class Solution {
+private:
+    // Direction vectors: right, left, down, up (matching grid values 1,2,3,4)
+    const vector<vector<int>> dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+
 public:
     int minCost(vector<vector<int>>& grid) {
-        int numRows = grid.size(), numCols = grid[0].size();
-        vector<vector<int>> minChanges(numRows, vector<int>(numCols, INT_MAX));
+        int numRows = grid.size(), numCols = grid[0].size(), cost = 0;
 
-        // Initialize all cells with max value
-        minChanges[0][0] = 0;
+        // Track minimum cost to reach each cell
+        vector<vector<int>> minCost(numRows, vector<int>(numCols, INT_MAX));
 
-        while (true) {
-            // Store previous state to check for convergence
-            vector<vector<int>> prevState = minChanges;
+        // Queue for BFS part - stores cells that need cost increment
+        queue<pair<int, int>> queue;
 
-            // Forward pass: check cells coming from left and top
-            for (int row = 0; row < numRows; row++) {
-                for (int col = 0; col < numCols; col++) {
-                    // Check cell above
-                    if (row > 0) {
-                        minChanges[row][col] =
-                            min(minChanges[row][col],
-                                minChanges[row - 1][col] +
-                                    (grid[row - 1][col] == 3 ? 0 : 1));
-                    }
-                    // Check cell to the left
-                    if (col > 0) {
-                        minChanges[row][col] =
-                            min(minChanges[row][col],
-                                minChanges[row][col - 1] +
-                                    (grid[row][col - 1] == 1 ? 0 : 1));
-                    }
+        // Start DFS from origin with cost 0
+        dfs(grid, 0, 0, minCost, cost, queue);
+
+        // BFS part - process cells level by level with increasing cost
+        while (!queue.empty()) {
+            cost++;
+            int levelSize = queue.size();
+
+            while (levelSize-- > 0) {
+                auto [row, col] = queue.front();
+                queue.pop();
+
+                // Try all 4 directions for next level
+                for (int dir = 0; dir < 4; dir++) {
+                    dfs(grid, row + dirs[dir][0], col + dirs[dir][1], minCost,
+                        cost, queue);
                 }
-            }
-
-            // Backward pass: check cells coming from right and bottom
-            for (int row = numRows - 1; row >= 0; row--) {
-                for (int col = numCols - 1; col >= 0; col--) {
-                    // Check cell below
-                    if (row < numRows - 1) {
-                        minChanges[row][col] =
-                            min(minChanges[row][col],
-                                minChanges[row + 1][col] +
-                                    (grid[row + 1][col] == 4 ? 0 : 1));
-                    }
-                    // Check cell to the right
-                    if (col < numCols - 1) {
-                        minChanges[row][col] =
-                            min(minChanges[row][col],
-                                minChanges[row][col + 1] +
-                                    (grid[row][col + 1] == 2 ? 0 : 1));
-                    }
-                }
-            }
-
-            // If no changes were made in this iteration, we've found optimal
-            // solution
-            if (prevState == minChanges) {
-                break;
             }
         }
 
-        return minChanges[numRows - 1][numCols - 1];
+        return minCost[numRows - 1][numCols - 1];
+    }
+
+private:
+    // DFS to explore all reachable cells with current cost
+    void dfs(vector<vector<int>>& grid, int row, int col,
+             vector<vector<int>>& minCost, int cost,
+             queue<pair<int, int>>& queue) {
+        if (!isUnvisited(minCost, row, col)) return;
+
+        minCost[row][col] = cost;
+        queue.push({row, col});
+
+        // Follow the arrow direction without cost increase
+        int nextDir = grid[row][col] - 1;
+        dfs(grid, row + dirs[nextDir][0], col + dirs[nextDir][1], minCost, cost,
+            queue);
+    }
+
+    // Check if cell is within bounds and unvisited
+    bool isUnvisited(vector<vector<int>>& minCost, int row, int col) {
+        return row >= 0 && col >= 0 && row < minCost.size() &&
+               col < minCost[0].size() && minCost[row][col] == INT_MAX;
     }
 };
