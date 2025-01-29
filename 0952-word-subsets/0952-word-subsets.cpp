@@ -1,39 +1,47 @@
 class Solution {
 public:
     vector<string> wordSubsets(vector<string>& mainWords, vector<string>& requiredWords) {
-        int maxCharFreq[26] = {0};
-        int tempCharFreq[26];
-        
-        for (const auto& word : requiredWords) {
-            memset(tempCharFreq, 0, sizeof tempCharFreq);//To Set Temp freq all to zero 
-//You can do vector<int> tempCharFreq(26,0);
-            for (char ch : word) {
-                tempCharFreq[ch - 'a']++;
+       int n1 = mainWords.size();
+       int n2 = requiredWords.size();
+       vector<string> ans;
+       string store="";
+        unordered_map<char,int> mp;
+       for(string i:requiredWords)
+       {
+        unordered_map<char,int> mpc;
+            for(char ch:i)
+            {
+                mpc[ch]++;
             }
-            for (int i = 0; i < 26; ++i) {
-                maxCharFreq[i] = max(maxCharFreq[i], tempCharFreq[i]);
+            for(auto val:mpc)
+            {
+                char fis = val.first;
+                mp[fis]=max(mp[fis],mpc[fis]);
             }
-        }
-        
-        vector<string> universalWords;
-        
-        for (const auto& word : mainWords) {
-            memset(tempCharFreq, 0, sizeof tempCharFreq);
-            for (char ch : word) {
-                tempCharFreq[ch - 'a']++;
+
+       }
+        for(string i:mainWords)
+        {
+            unordered_map<char,int> submp;
+            for(char ch:i)
+            {
+                submp[ch]++;
             }
-            bool isUniversal = true;
-            for (int i = 0; i < 26; ++i) {
-                if (maxCharFreq[i] > tempCharFreq[i]) {
-                    isUniversal = false;
+            bool work =true;
+            for(auto j:mp)
+            {
+                char k = j.first;
+                if(submp[k]<mp[k])
+                {
+                    work =false;
                     break;
                 }
             }
-            if (isUniversal) {
-                universalWords.emplace_back(word);
+            if(work)
+            {
+                ans.push_back(i);
             }
         }
-        
-        return universalWords;
+        return ans;
     }
 };
