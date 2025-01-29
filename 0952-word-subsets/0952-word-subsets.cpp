@@ -4,7 +4,6 @@ public:
        int n1 = mainWords.size();
        int n2 = requiredWords.size();
        vector<string> ans;
-       string store="";
         unordered_map<char,int> mp;
        for(string i:requiredWords)
        {
