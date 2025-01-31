@@ -10,15 +10,17 @@ public:
     }
     void solve(vector<int>& candidates, int target,vector<vector<int>>& ans,vector<int> work,int ind,int n)
     {
-        if(ind==n)
-        {
+        
             if(target==0)
             {
                 ans.push_back(work);
-            }
                 return;
-
-        }
+            }
+            if(ind>=n)
+            {
+                return;
+            }
+        
         if(target>=candidates[ind])
         {
             work.push_back(candidates[ind]);
