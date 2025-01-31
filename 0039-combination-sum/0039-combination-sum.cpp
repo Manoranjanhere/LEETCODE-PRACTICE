@@ -19,11 +19,12 @@ public:
                 return;
 
         }
-        solve(candidates,target,ans,work,ind+1,n);
         if(target>=candidates[ind])
         {
             work.push_back(candidates[ind]);
             solve(candidates,target-candidates[ind],ans,work,ind,n);
+            work.pop_back();
         }
+        solve(candidates,target,ans,work,ind+1,n);
     }
 };
