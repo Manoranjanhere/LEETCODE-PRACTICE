@@ -4,17 +4,16 @@ public:
         int n = candidates.size();
         int ind =0;
         sort(candidates.begin(),candidates.end());
-        set<vector<int>> ans;
+        vector<vector<int>> ans;
         vector<int> work;
         solve(candidates,target,ans,work,ind,n);
-        vector<vector<int>> anss(ans.begin(),ans.end());
-        return anss;
+        return ans;
     }
-    void solve(vector<int>& candidates,int target,set<vector<int>>&ans,vector<int> work,int ind,int n)
+    void solve(vector<int>& candidates,int target,vector<vector<int>>&ans,vector<int> work,int ind,int n)
     {
         if(target==0)
         {
-            ans.insert(work);
+            ans.push_back(work);
             return;
         }
         if(ind==n||target<0)
