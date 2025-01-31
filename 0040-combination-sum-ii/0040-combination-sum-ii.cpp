@@ -1,36 +1,34 @@
 class Solution {
 public:
-    vector<vector<int>> combinationSum2(vector<int>& cand, int target) 
-    {
-        int n = cand.size();
-        sort(cand.begin(),cand.end());
-        vector<vector<int>> ans;
-        vector<int> store;
-        solve(store,ans,cand,target,0,n);
-        vector<vector<int>>an(ans.begin(),ans.end());
-        return an;
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        int n = candidates.size();
+        int ind =0;
+        sort(candidates.begin(),candidates.end());
+        set<vector<int>> ans;
+        vector<int> work;
+        solve(candidates,target,ans,work,ind,n);
+        vector<vector<int>> anss(ans.begin(),ans.end());
+        return anss;
     }
-    void solve(vector<int>& store,vector<vector<int>>& ans,vector<int>& cand, int target,int l,int n)
+    void solve(vector<int>& candidates,int target,set<vector<int>>&ans,vector<int> work,int ind,int n)
     {
-                if(target==0)
-                {
-                    ans.push_back(store);
-                    return;
-                }
-           if(l==n||target<0)
-           {
-                return;
-           }
-           if(cand[l]<=target)
-           {
-                store.push_back(cand[l]);
-                solve(store,ans,cand,target-cand[l],l+1,n);
-                store.pop_back();
-           }
-            int nextIdx = l + 1;
-        while (nextIdx < cand.size() && cand[nextIdx] == cand[l]) {
-            nextIdx++;
+        if(target==0)
+        {
+            ans.insert(work);
+            return;
         }
-           solve(store,ans,cand,target,nextIdx,n);
+        if(ind==n||target<0)
+        {
+            return;
+        }
+        int next=ind;
+        while(next+1<n&&candidates[next]==candidates[next+1])
+        {
+            next++;
+        }
+        solve(candidates,target,ans,work,next+1,n);
+        work.push_back(candidates[ind]);
+        solve(candidates,target-candidates[ind],ans,work,ind+1,n);
+        work.pop_back();
     }
 };
