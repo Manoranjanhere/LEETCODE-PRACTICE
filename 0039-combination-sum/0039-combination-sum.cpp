@@ -16,7 +16,7 @@ public:
                 ans.push_back(work);
                 return;
             }
-            if(ind>=n)
+            if(ind>=n||target<0)
             {
                 return;
             }
