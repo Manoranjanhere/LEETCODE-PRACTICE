@@ -1,26 +1,27 @@
 class Solution {
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> store;
-        int l = 0;
         int n = nums.size();
-        sort(nums.begin(), nums.end()); // Sort to handle duplicates
-        solve(nums, ans, store, l, n);
-        return ans;
+        int ind =0;
+        sort(nums.begin(),nums.end());
+        set<vector<int>> ans;
+        vector<int> work;
+        solve(nums,ans,work,ind,n);
+        vector<vector<int>>anss(ans.begin(),ans.end());
+        return anss;
     }
-
-    void solve(vector<int>& nums, vector<vector<int>>& ans, vector<int>& store, int l, int n) {
-        ans.push_back(store);
-
-        for (int i = l; i < n; i++) {
-            if (i > l && nums[i] == nums[i - 1]) continue;
-            
-            store.push_back(nums[i]);
-            solve(nums, ans, store, i + 1, n);
-
-            // Backtrack (remove the current element)
-            store.pop_back();
+    void solve(vector<int> nums,set<vector<int>>& ans,vector<int> work,int ind,int n)
+    {
+        if(ind==n)
+        {
+            ans.insert(work);
+            return;
         }
+            solve(nums,ans,work,ind+1,n);
+            work.push_back(nums[ind]);
+            solve(nums,ans,work,ind+1,n);
     }
+
+   
+    
 };
