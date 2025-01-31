@@ -24,6 +24,7 @@ public:
         {
             work.push_back(candidates[ind]);
             solve(candidates,target-candidates[ind],ans,work,ind,n);
+            work.pop_back();
         }
     }
 };
