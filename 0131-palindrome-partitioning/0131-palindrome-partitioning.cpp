@@ -1,45 +1,38 @@
 class Solution {
 public:
-    vector<vector<string>> partition(string s) 
-    {
-        // vector<string> prefix;
-        // vector<string> suffix;
-        // string a ="";
-        // for(int i=0;i<n;i++)
-        // {
-        //     a+=s[i];
-        //     if(pallindrome(a))
-        //     {
-        //         prefix.push_back(a);
-        //     }
-            
-        // }   
-            vector<vector<string>> ans;
-            vector<string> run;
-            solve(s,ans,run,0);
-            return ans;
+    vector<vector<string>> partition(string s) {
+        int n = s.length();
+        int ind =0;
+        vector<vector<string>> ans;
+        vector<string> store;
+        solve(s,ans,store,0,n);
+        return ans;
     }
-    void solve(string s,vector<vector<string>>& ans,vector<string>& run,int l)
+    void solve(string s,vector<vector<string>>& ans,vector<string>& store,int ind,int n)
     {
-        if(l==s.size())
+        if(ind==n)
         {
-                ans.push_back(run);
-                return;
+            ans.push_back(store);
         }
-        for(int i=l;i<s.size();i++)
+        for(int i=ind;i<n;i++)
         {
-            string substr = s.substr(l, i - l + 1);
-            if(pallindrome(substr))
+            if(ispalindrome(s,ind,i))
             {
-                run.push_back(substr);
-                solve(s,ans,run,i+1);
-                run.pop_back();
+                store.push_back(s.substr(ind,i-ind+1));
+                solve(s,ans,store,i+1,n);
+                store.pop_back();
             }
         }
     }
-    bool pallindrome(string a)
+    bool ispalindrome(string s,int ind,int i)
     {
-        return (a==string(a.rbegin(),a.rend()));
-       
+        while(ind<=i)
+        {
+            if(s[ind++]!=s[i--])
+            {
+                return false;
+            }
+        }
+        return true;
     }
 };
