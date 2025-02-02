@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1876-map-of-highest-peak](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1923-sentence-similarity-iii) |
