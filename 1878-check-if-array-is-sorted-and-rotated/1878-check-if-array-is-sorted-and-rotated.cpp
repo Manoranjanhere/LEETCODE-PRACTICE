@@ -7,28 +7,19 @@ public:
         int ind=0;
         for(int i=1;i<n;i++)
         {
-            if(nums[i]<nums[i-1])
+            if(c==0&&nums[i]<nums[i-1])
             {
-                if(c==0)
-                {
+                
                     rot= nums[0];
-                    ind=i;
                     c++;
-                }
-                else
-                {
-                    return false;
-                }
+                    if(nums[i]>nums[0])
+                    {
+                        return false;
+                    }
             }
-        }
-        if(rot!=0)
-        {
-            for(int i=ind;i<n;i++)
+            else if(c==1&&(nums[i]<nums[i-1]||nums[0]<nums[i]))
             {
-                if(rot<nums[i])
-                {
-                    return false;
-                }
+                return false;
             }
         }
         return true;
