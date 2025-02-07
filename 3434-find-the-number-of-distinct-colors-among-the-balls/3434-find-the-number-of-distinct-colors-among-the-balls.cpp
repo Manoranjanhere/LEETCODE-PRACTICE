@@ -12,7 +12,6 @@ public:
                 c++;
                 mp[queries[i][0]]=queries[i][1];
                 un1[queries[i][1]]++;
-                cout<<"1 "<<queries[i][0]<<" "<<un1[mp[queries[i][0]]]<<" ";
                 
             }
             else if(mp.find(queries[i][0])!=mp.end()&&un1.find(queries[i][1])==un1.end())
@@ -28,13 +27,11 @@ public:
                 }
                 mp[queries[i][0]]=queries[i][1];
                 un1[queries[i][1]]++;
-                cout<<"2 "<<queries[i][0]<<" "<<un1[mp[queries[i][0]]]<<" ";
             }
             else if(mp.find(queries[i][0])==mp.end()&&un1.find(queries[i][1])!=un1.end())
             {
                 mp[queries[i][0]]=queries[i][1];
                 un1[queries[i][1]]++;
-                cout<<"3 "<<queries[i][0]<<" "<<un1[mp[queries[i][0]]]<<" ";
             }
             else
             {
@@ -50,7 +47,6 @@ public:
                     mp[queries[i][0]]=queries[i][1];
                     un1[mp[queries[i][0]]]++;
                 }
-                    cout<<"4 "<<queries[i][0]<<" "<<un1[mp[queries[i][0]]]<<" ";
             }
             ans.push_back(c);
         }
