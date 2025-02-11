@@ -5,6 +5,7 @@ public:
         while(s.find(part)!=string::npos)
         {
             int k = s.find(part);
+            cout<<k;
             s.erase(k,n);
         }
         return s;
