@@ -17,7 +17,6 @@ public:
                 return c;
             }
             long long sum=min(k1,k2)*2+max(k1,k2);
-            cout<<sum<<" ";
             pq.push(sum);
         }
         return c;
