@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1524-string-matching-in-an-array) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0859-design-circular-deque) |
 | [0931-maximum-frequency-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0931-maximum-frequency-stack) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
@@ -869,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2448-count-number-of-bad-pairs) |
 | [2507-number-of-common-factors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2507-number-of-common-factors) |
@@ -969,6 +972,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1205,4 +1209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
