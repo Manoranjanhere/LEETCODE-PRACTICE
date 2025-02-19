@@ -407,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
@@ -743,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
@@ -798,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2580-circular-sentence) |
@@ -1084,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2300-construct-string-with-repeat-limit) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2616-maximal-score-after-applying-k-operations) |
