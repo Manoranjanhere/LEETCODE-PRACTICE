@@ -2,24 +2,28 @@ class Solution {
 public:
     int numTilePossibilities(string tiles) 
     {
-            int n = tiles.size();
-            set<string> store;
-            vector<bool> used(n,false);
-            solve(tiles,store,used,"");
-            return store.size()-1;
+            int c[26]={0};
+            for(char ch:tiles)
+            {
+                c[ch-'A']++;
+            }
+            return find(c);
             
        }
-       void solve(string tiles,set<string>&store,vector<bool>& used,string curr)
+       int find(int c[26])
        {
-            store.insert(curr);
-            for(int i=0;i<tiles.size();i++)
+        int t=0;
+        for(int pos=0;pos<26;pos++)
+        {
+            if(c[pos]==0)
             {
-                if(!used[i])
-                {
-                    used[i]=true;
-                    solve(tiles,store,used,curr+tiles[i]);
-                    used[i]=false;
-                }
+                continue;
             }
+            t++;
+            c[pos]--;
+            t+=find(c);
+            c[pos]++;
+        }
+        return t;
        }
 };
