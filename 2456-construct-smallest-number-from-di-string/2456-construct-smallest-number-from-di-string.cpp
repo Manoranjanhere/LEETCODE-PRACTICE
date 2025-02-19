@@ -1,21 +1,20 @@
 class Solution {
 public:
     string smallestNumber(string pattern) {
-        int n = pattern.size();
         string ans ="";
-        for(int i=1;i<=n+1;i++)
+        for(int i=1;i<=pattern.size()+1;i++)
         {
             ans+=(i+'0');
         }
-        while(!check(ans,pattern,n))
+        while(!check(ans,pattern))
         {
             next_permutation(ans.begin(),ans.end());
         }
         return ans;
     }
-    bool check(string ans,string pattern,int n)
+    bool check(string ans,string pattern)
     {
-        for(int i=0;i<n;i++)
+        for(int i=0;i<pattern.size();i++)
         {
             if(pattern[i]=='I')
             {
