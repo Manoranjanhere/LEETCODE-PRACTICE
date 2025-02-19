@@ -5,7 +5,6 @@ public:
         vector<string> happy;
         gen(n,curr,happy);
         if(happy.size()<k)return "";
-        sort(happy.begin(),happy.end());
         return happy[k-1];
     }
     void gen(int n, string curr,vector<string> &happy)
