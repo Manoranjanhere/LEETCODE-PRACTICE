@@ -15,14 +15,19 @@ public:
         TreeNode *root=nullptr;
         int n = preorder.size();
         if(n==0)return root;
+        unordered_map<int,int> mp;
+        for(int i=0;i<n;i++)
+        {
+            mp[postorder[i]]=i;
+        }
         root=new TreeNode(preorder[0]);
-        int ind=find(postorder.begin(),postorder.end(),preorder[0])-postorder.begin();
+        int ind=mp[preorder[0]];
         vector<pair<int,TreeNode *>> store;
         store.push_back({ind,root});
         for(int i=1;i<n;i++)
         {
             int ele=preorder[i];
-            int indpost=find(postorder.begin(),postorder.end(),ele)-postorder.begin();
+            int indpost=mp[ele];
             int c= store.size()-1;
             while(c>=0)
             {
