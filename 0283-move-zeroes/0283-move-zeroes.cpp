@@ -1,9 +1,17 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        stable_partition(nums.begin(),nums.end(),[](int n)
+        int n = nums.size();
+        int l =0;
+        for(int i=0;i<n;i++)
         {
-            return n!=0;
-        });
+            if(nums[i]!=0)
+            {
+                swap(nums[i],nums[l]);
+                {
+                    l++;
+                }
+            }
+        }
     }
 };
