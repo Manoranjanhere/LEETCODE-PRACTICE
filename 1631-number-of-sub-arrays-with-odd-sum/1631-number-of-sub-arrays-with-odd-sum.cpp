@@ -9,13 +9,14 @@ public:
             if(prefix%2==0)
             {
                 even++;
-                ans=(ans+odd)%mod;
+                ans+=odd;
             }
             else
             {
                 odd++;
-                ans=(ans+even)%mod;
+                ans+=even;
             }
+            ans%=mod;
         }
         return ans;
     }
