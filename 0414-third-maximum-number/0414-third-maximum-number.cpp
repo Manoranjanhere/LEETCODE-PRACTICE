@@ -1,18 +1,26 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        set<int,greater<int>> st;
-        for(int ele:nums)
+        long first = LONG_MIN,second =LONG_MIN,third=LONG_MIN;
+        for(int num:nums)
         {
-            st.insert(ele);
+            if(num==first||num==second||num==third)continue;
+            if(num>first)
+            {
+                third=second;
+                second=first;
+                first=num;
+            }
+            else if(num>second)
+            {
+                third=second;
+                second=num;
+            }
+            else if(num>third)
+            {
+                third=num;
+            }
         }
-        auto it = st.begin();
-        if(st.size()<3)
-        
-        {
-            return *it;
-        }
-        advance(it,2);
-        return *it;
+        return(third==LONG_MIN)?first:third;
     }
 };
