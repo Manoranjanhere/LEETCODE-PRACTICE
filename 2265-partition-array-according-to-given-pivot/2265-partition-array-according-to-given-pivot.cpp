@@ -21,8 +21,6 @@ public:
         while(i<=j)
         {
             ans[i]=pivot;
-            ans[j]=pivot;
-            j--;
             i++;
         }
         return ans;
