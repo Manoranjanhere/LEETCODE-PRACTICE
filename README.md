@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -576,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -936,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
@@ -1000,6 +1003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
