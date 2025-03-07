@@ -1,14 +1,16 @@
 class Solution {
 public:
     vector<int> closestPrimes(int left, int right) {
+        vector<bool>prime(right+1,true);
         int p1=-1;
         int p2=-1;
         int diff=INT_MAX;
         int mp1=-1;
         int mp2=-1;
+        eratosthenes(prime,right);
         for(int i=left;i<=right;i++)
         {
-            if(isprime(i))
+            if(prime[i]==true)
             {
                 p2=p1;
                 p1=i;
@@ -32,16 +34,19 @@ public:
             return {mp2,mp1};
         }
     }
-    bool isprime(int x)
+    void eratosthenes(vector<bool>&prime,int right)
     {
-        if(x<2)return false;
-        for(int i=2;i*i<=x;i++)
+        prime[0]=false;
+        prime[1]=false;
+        for(int i=2;i*i<=right;i++)
         {
-            if(x%i==0)
+            if(prime[i]==true)
             {
-                return false;
+                for(int j=i*i;j<=right;j+=i)
+                {
+                    prime[j]=false;
+                }
             }
         }
-        return true;
     }
 };
