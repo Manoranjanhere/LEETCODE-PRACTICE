@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1036-rotting-oranges) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1039-find-the-town-judge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1063-best-sightseeing-pair](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0952-word-subsets) |
+| [1039-find-the-town-judge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1364-tuple-with-same-product) |
@@ -1204,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0210-course-schedule-ii) |
+| [1039-find-the-town-judge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2201-valid-arrangement-of-pairs) |
