@@ -2,18 +2,12 @@ class Solution {
 public:
     int numberOfSubstrings(string s) {
         int n = s.length();
-        unordered_map<char,int> mp;
+        vector<int>pos{-1,-1,-1};
        int ans =0;
-       int left=0;
        for(int i=0;i<n;i++)
        {
-        mp[s[i]]++;
-        while(mp['a']>=1&&mp['b']>=1&&mp['c']>=1)
-        {
-            ans+=(n-i);
-            mp[s[left]]--;
-            left++;
-        }
+        pos[s[i]-'a']=i;
+        ans+=1+min({pos[0],pos[1],pos[2]});
        }
        return ans;
     }
