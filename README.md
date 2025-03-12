@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2586-longest-square-streak-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2586-longest-square-streak-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2716-prime-subtraction-operation) |
@@ -1248,6 +1250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Rolling Hash
