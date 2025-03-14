@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumCandies(vector<int>& candies, long long k) {
         // Find the maximum number of candies in any pile
-        int maxCandiesInPile = 0;
+        int maxCandiesInPile =0;
         for (int i = 0; i < candies.size(); i++) {
             maxCandiesInPile = max(maxCandiesInPile, candies[i]);
         }
