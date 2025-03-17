@@ -1,20 +1,19 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_map<int,int>mp;
-        for(int num:nums)
-        {
-            mp[num]++;
+        // Track unpaired numbers
+        unordered_set<int> unpaired;
+
+        // Add numbers to set if unseen, remove if seen
+        for (int num : nums) {
+            if (unpaired.count(num)) {
+                unpaired.erase(num);
+            } else {
+                unpaired.insert(num);
+            }
         }
-        int c=0;
-        for(auto i:mp)
-        {
-            c+=i.second/2;
-        }
-        if(c==nums.size()/2)
-        {
-            return true;
-        }
-        return false;
+
+        // Return true if all numbers were paired
+        return unpaired.empty();
     }
 };
