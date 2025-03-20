@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3427-special-array-ii) |
@@ -990,6 +991,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1208,6 +1210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1238,6 +1241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Topological Sort
