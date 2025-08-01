@@ -819,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0139-word-break) |
@@ -900,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0131-palindrome-partitioning) |
