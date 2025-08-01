@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0139-word-break) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1214,6 +1216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0200-number-of-islands) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1396-count-servers-that-communicate) |
