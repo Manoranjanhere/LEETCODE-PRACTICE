@@ -1,30 +1,22 @@
 class Solution {
 public:
-    bool wordBreak(string s, vector<string>& wordDict) {
-        unordered_map<string,bool>dp;
-        return solve(s,wordDict,dp);
-    }
-    bool solve(string s, vector<string>& wordDict,unordered_map<string,bool>& dp)
-    {
-        if(s=="")
-        {
-            return true;
+    bool wordBreak(string s, vector<string>& wordDict) 
+	{
+		unordered_set<string>st(wordDict.begin(),wordDict.end());
+		int n = s.size();
+		vector<bool> dp(n+1,false);
+		dp[0]=true;
+		for(int i=1;i<=n;i++)
+		{
+			for(int j=0;j<i;j++)
+			{
+				if(dp[j]&&st.count(s.substr(j,i-j)))
+				{
+					dp[i]=true;
+					break;
+				}
+			}
+		}
+		return dp[n];
         }
-        if(dp.find(s)!=dp.end())
-        {
-            return dp[s];
-        }
-        for(int i=0;i<=s.length();i++)
-        {
-            string prefix = s.substr(0,i);
-            if(find(wordDict.begin(),wordDict.end(),prefix)!=wordDict.end())
-            {
-                if(solve(s.substr(i),wordDict,dp))
-                {
-                    return dp[s]=true;
-                }
-            }
-        }
-            return dp[s]=false;
-    }
 };
