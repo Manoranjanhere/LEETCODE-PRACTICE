@@ -2,31 +2,19 @@ class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
-        vector<int> work;
-        int ind =0;
-        int n = candidates.size();
-        solve(candidates,target,ans,work,ind,n);
-        return ans;
+	vector<int> store;
+	solve(ans,candidates,target,0,store);
+	return ans;
     }
-    void solve(vector<int>& candidates, int target,vector<vector<int>>& ans,vector<int> work,int ind,int n)
-    {
-        
-            if(target==0)
-            {
-                ans.push_back(work);
-                return;
-            }
-            if(ind>=n||target<0)
-            {
-                return;
-            }
-        
-        if(target>=candidates[ind])
-        {
-            work.push_back(candidates[ind]);
-            solve(candidates,target-candidates[ind],ans,work,ind,n);
-            work.pop_back();
-        }
-        solve(candidates,target,ans,work,ind+1,n);
-    }
+	void solve(vector<vector<int>>& ans,vector<int>& candidates, int target, int ind,vector<int>& store)
+	{
+		if(target<=0||ind>=candidates.size()){
+			if(target==0)ans.push_back(store);
+			return;
+		}
+		solve(ans,candidates,target,ind+1,store);
+		store.push_back(candidates[ind]);
+		solve(ans,candidates,target-candidates[ind],ind,store);
+		store.pop_back();
+	}
 };
