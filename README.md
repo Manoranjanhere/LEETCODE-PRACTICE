@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3643-zero-array-transformation-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -1137,6 +1139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1213,6 +1216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2868-continuous-subarrays) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -1236,6 +1240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3790-fruits-into-baskets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
