@@ -16,11 +16,11 @@ public:
         for(char i:digits)
         {
             vector<string> temp;
-            for(auto ch1:mp[i])
+            for(auto ch1:ans)
             {
-                for(auto ch2:ans)
+                for(char ch2:mp[i])
                 {   
-                    temp.push_back(ch2+ch1);
+                    temp.push_back(ch1+ch2);
                 }
             }
             ans.swap(temp);
