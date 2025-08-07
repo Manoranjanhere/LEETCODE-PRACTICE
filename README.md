@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0063-unique-paths-ii) |
+| [0068-text-justification](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0078-subsets) |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0032-longest-valid-parentheses) |
+| [0068-text-justification](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0125-valid-palindrome) |
@@ -1141,6 +1143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0906-walking-robot-simulation) |
