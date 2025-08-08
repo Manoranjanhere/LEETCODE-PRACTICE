@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -679,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0327-count-of-range-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0611-valid-triangle-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
@@ -758,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0680-valid-palindrome-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -788,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1256-rank-transform-of-an-array) |
@@ -1214,6 +1218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0680-valid-palindrome-ii) |
