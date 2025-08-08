@@ -845,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0032-longest-valid-parentheses) |
+| [0065-valid-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0091-decode-ways) |
