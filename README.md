@@ -976,6 +976,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1197-parsing-a-boolean-expression) |
 ## Math
@@ -989,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1022,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0338-counting-bits) |
