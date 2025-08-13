@@ -980,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1197-parsing-a-boolean-expression) |
 ## Math
 |  |
@@ -995,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
