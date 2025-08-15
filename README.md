@@ -982,6 +982,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1197-parsing-a-boolean-expression) |
 ## Math
 |  |
@@ -998,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1033,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0800-letter-case-permutation) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
