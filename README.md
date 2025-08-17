@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0037-sudoku-solver) |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0075-sort-colors) |
