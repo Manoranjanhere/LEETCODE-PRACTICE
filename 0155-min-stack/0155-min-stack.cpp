@@ -5,7 +5,6 @@ public:
     MinStack() {
         
     }
-    
     void push(int val) {
         st.push(val);
         if(vec.size()==0||vec.back()>val)vec.push_back(val);
