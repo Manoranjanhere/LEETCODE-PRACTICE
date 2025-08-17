@@ -9,7 +9,6 @@ public:
     void first(function<void()> printFirst) {
         
         // printFirst() outputs "first". Do not change or remove this line.
-        m1.lock();
         printFirst();
         m2.unlock();
     }
