@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
+| [0827-expressive-words](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0827-expressive-words) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0859-design-circular-deque) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -788,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0680-valid-palindrome-ii) |
+| [0827-expressive-words](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0827-expressive-words) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -899,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0721-accounts-merge) |
 | [0800-letter-case-permutation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0812-rotate-string) |
+| [0827-expressive-words](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0827-expressive-words) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0952-word-subsets) |
