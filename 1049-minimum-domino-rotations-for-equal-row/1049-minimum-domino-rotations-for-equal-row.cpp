@@ -31,8 +31,7 @@ public:
 		else if(cand2!=bottoms[i])bottom++;
 		}
 	int ans2 = min(top,bottom);
-	int ans = min(ans1,ans2);
-	return (ans==INT_MAX)?-1:ans;
+	return min(ans1,ans2)==INT_MAX?-1:min(ans1,ans2);
 
 	}
 };
