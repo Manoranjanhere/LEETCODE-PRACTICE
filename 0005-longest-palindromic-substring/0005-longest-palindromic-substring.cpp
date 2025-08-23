@@ -1,39 +1,27 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        int n = s.length();
-        int mxsize=0;
-        string ele="";
-        if(n==1)return s;
-        if(n==0)return "";
-        for(int i=0;i<n-1;i++)
+        int n = s.size();
+        int sz =0;
+        string f="";
+        for(int i=0;i<n;i++)
         {
-            for(int j=n-1;j>=i;j--)
-            {
-                if(s[i]==s[j])
-                {
-                    string ans =s.substr(i,j-i+1); 
-                    if(ans.length()>mxsize&&pallindrome(ans))
-                    {
-                            ele=ans;
-                            mxsize=ans.length();
-                    }
-                }
-            }
+            solve(s,i,i,sz,f);
+            solve(s,i,i+1,sz,f);
         }
-        return ele;
+        return f;
     }
-    bool pallindrome(string a)
+    void solve(string s,int left,int right,int& sz,string &f)
     {
-        string rev=a;
-        reverse(rev.begin(),rev.end());
-        if(rev==a)
+        if(left<0||right>=s.size()||s[left]!=s[right])
         {
-            return true;
+            return;
         }
-        else
+        if(right-left+1>sz)
         {
-            return false;
+            sz=right-left+1;
+            f=s.substr(left,right-left+1);
         }
+        solve(s,left-1,right+1,sz,f);
     }
 };
