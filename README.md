@@ -589,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0567-permutation-in-string) |
@@ -916,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0318-maximum-product-of-word-lengths) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0567-permutation-in-string) |
@@ -1167,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
