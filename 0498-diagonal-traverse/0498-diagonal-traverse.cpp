@@ -31,12 +31,12 @@ public:
 		{
 			j=0;
 		}
-		else if(i>=n)
+		else if(i==n)
 		{
 			i=n-1;
 			j+=2;
 		}
-		else if(j>=m)
+		else if(j==m)
 		{
 			j=m-1;
 			i+=2;
