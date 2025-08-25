@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
@@ -1148,6 +1149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0967-minimum-falling-path-sum) |
@@ -1256,6 +1258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0906-walking-robot-simulation) |
