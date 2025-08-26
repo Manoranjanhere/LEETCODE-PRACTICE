@@ -5,7 +5,7 @@ public:
         for(int i=2;i*i<n;i++)
         {
             if(seive[i]==0)continue;
-            int ind=2;
+            int ind=i;
             while(i*ind<n)
             {
                 seive[i*ind]=0;
