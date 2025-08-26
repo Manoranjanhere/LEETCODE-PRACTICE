@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1477-product-of-the-last-k-numbers) |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -855,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0862-find-and-replace-in-string) |
 | [1129-longest-string-chain](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1256-rank-transform-of-an-array) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1337,6 +1340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1304-longest-happy-string) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
