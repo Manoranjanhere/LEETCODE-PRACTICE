@@ -2,7 +2,7 @@ class Solution {
 public:
     int countPrimes(int n) {
         vector<int>seive(n+1,1);
-        for(int i=2;i<n;i++)
+        for(int i=2;i*i<n;i++)
         {
             if(seive[i]==0)continue;
             int ind=2;
