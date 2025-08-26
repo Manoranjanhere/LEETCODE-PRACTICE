@@ -1,23 +1,33 @@
 class Solution {
 public:
     int maxProduct(vector<string>& words) {
-        int n = words.size();
-        vector<int> store(n);
-        int ans =0;
+        int n=words.size();
+        vector<unordered_map<char,int>> st(n);
         for(int i=0;i<n;i++)
         {
-            for(char c: words[i])
+            for(char c:words[i])
             {
-                store[i]|=(1<<(c-'a'));
+                st[i][c]++;
             }
-            for(int j=0;j<i;j++)
+        }
+        int ans =0;
+        for(int i=0;i<n-1;i++)
+        {
+            for(int j=i+1;j<n;j++)
             {
-                if(!(store[j]&store[i]))
+                bool found = false;
+                for(char c:words[i])
                 {
-                    if((words[i].size()*words[j].size())>ans)
+                    if(st[j][c]>=1)
                     {
-                        ans=words[i].size()*words[j].size();
+                        found=true;
+                        break;
                     }
+                }
+                if(!found)
+                {
+                    int m =words[i].size()*words[j].size();
+                    ans=max(ans,m);
                 }
             }
         }
