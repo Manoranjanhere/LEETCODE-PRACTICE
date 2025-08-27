@@ -22,8 +22,8 @@ public:
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
-      if(node==NULL)return node;
-        unordered_map<Node*,Node*>mp;
+        unordered_map<Node*,Node*> mp;
+        if(node==NULL)return NULL;
         Node* head = new Node(node->val);
         mp[node]=head;
         stack<Node*> st;
@@ -32,14 +32,14 @@ public:
         {
             Node* curr = st.top();
             st.pop();
-            for(Node *n:curr->neighbors)
+            for(Node* i:curr->neighbors)
             {
-                if(mp.find(n)==mp.end())
+                if(mp.find(i)==mp.end())
                 {
-                    st.push(n);
-                    mp[n]=new Node(n->val);
+                    st.push(i);
+                    mp[i]=new Node(i->val);
                 }
-                mp[curr]->neighbors.push_back(mp[n]);
+                mp[curr]->neighbors.push_back(mp[i]);
             }
         }
         return head;
