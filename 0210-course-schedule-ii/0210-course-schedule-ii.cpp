@@ -1,49 +1,40 @@
 class Solution {
 public:
-bool dfs(int node,map<int,vector<int>>&mp,vector<int>&vis,vector<int>& path,vector<int>& res)
-{
-    vis[node]=1;
-    path[node]=1;
-    for(auto neighbour:mp[node])
-    {
-        if(!vis[neighbour])
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+    vector<vector<int>>gr(numCourses);
+        vector<int> indegree(numCourses);
+        vector<int> ans;
+        for(auto i:prerequisites)
         {
-            if(dfs(neighbour,mp,vis,path,res))
-            {
-                return true;
-            }
+            gr[i[1]].push_back(i[0]);
+            indegree[i[0]]++;
         }
-        else if(path[neighbour])
-        {
-            return true;
-        }
-
-    }
-    path[node]=0;
-    res.push_back(node);
-    return false;
-
-}
-    vector<int> findOrder(int numCourses, vector<vector<int>>& p) {
-        map<int,vector<int>>mp;
-        vector<int> vis(numCourses,0);
-        vector<int> path(numCourses,0);
-        vector<int> res;
-        int n = p.size();
-        for(int i=0;i<n;i++)
-        {
-            mp[p[i][0]].push_back(p[i][1]);
-        }
+        stack<int> st;
         for(int i=0;i<numCourses;i++)
         {
-            if(!vis[i])
+            if(indegree[i]==0)
             {
-                if(dfs(i,mp,vis,path,res))
+                st.push(i);
+            }
+        }
+        while(!st.empty())
+        {
+            int curr= st.top();
+            ans.push_back(curr);
+            st.pop();
+            for(int i:gr[curr])
+            {
+                indegree[i]--;
+                if(indegree[i]==0)
                 {
-                    return {};
+                    st.push(i);
                 }
             }
         }
-        return res;
+        for(int i:indegree)
+        {
+            if(i!=0)return {};
+        }
+        return ans;
     }
 };
