@@ -1,40 +1,37 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-         vector<vector<int>> gr(numCourses);
-         vector<int> indegree(numCourses,0);
-         for(auto i:prerequisites)
-         {
-            indegree[i[0]]++;
+        vector<vector<int>>gr(numCourses);
+        vector<int> indegree(numCourses);
+        for(auto i:prerequisites)
+        {
             gr[i[1]].push_back(i[0]);
-         }
-         queue<int> q;
+            indegree[i[0]]++;
+        }
+        stack<int> st;
         for(int i=0;i<numCourses;i++)
         {
             if(indegree[i]==0)
             {
-                q.push(i);
+                st.push(i);
             }
         }
-        while(!q.empty())
+        while(!st.empty())
         {
-            int curr=q.front();
-            q.pop();
-            for(int neighbour:gr[curr])
+            int curr= st.top();
+            st.pop();
+            for(int i:gr[curr])
             {
-                indegree[neighbour]--;
-                if(indegree[neighbour]==0)
+                indegree[i]--;
+                if(indegree[i]==0)
                 {
-                    q.push(neighbour);
+                    st.push(i);
                 }
             }
         }
         for(int i:indegree)
         {
-            if(i!=0)
-            {
-                return false;
-            }
+            if(i!=0)return false;
         }
         return true;
     }
