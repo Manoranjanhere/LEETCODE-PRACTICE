@@ -22,26 +22,26 @@ public:
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
-      if(node==NULL)return NULL;
-	unordered_map<Node*,Node*>mp;
-	Node* head  = new Node(node->val);
-	mp[node]=head;
-	stack<Node*> st;
-	st.push(node);
-	while(!st.empty())
-	{
-		Node* curr= st.top();
-		st.pop();
-		for(Node* n:curr->neighbors)
-		{
-			if(mp.find(n)==mp.end()){
-			mp[n]=new Node(n->val);
-			st.push(n);
-			}
-			mp[curr]->neighbors.push_back(mp[n]);
-		}
-	}
-	return head;
-	
+      if(node==NULL)return node;
+        unordered_map<Node*,Node*>mp;
+        Node* head = new Node(node->val);
+        mp[node]=head;
+        stack<Node*> st;
+        st.push(node);
+        while(!st.empty())
+        {
+            Node* curr = st.top();
+            st.pop();
+            for(Node *n:curr->neighbors)
+            {
+                if(mp.find(n)==mp.end())
+                {
+                    st.push(n);
+                    mp[n]=new Node(n->val);
+                }
+                mp[curr]->neighbors.push_back(mp[n]);
+            }
+        }
+        return head;
     }
 };
