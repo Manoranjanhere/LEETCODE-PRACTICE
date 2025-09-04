@@ -494,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0988-flip-equivalent-binary-trees) |
@@ -574,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0988-flip-equivalent-binary-trees) |
@@ -750,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0729-my-calendar-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0731-my-calendar-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -807,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0535-encode-and-decode-tinyurl](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0731-my-calendar-ii) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0859-design-circular-deque) |
 | [0931-maximum-frequency-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0931-maximum-frequency-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1334,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1548,6 +1553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1477-product-of-the-last-k-numbers) |
 ## Bitmask
 |  |
