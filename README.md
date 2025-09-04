@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1063-best-sightseeing-pair) |
+| [1127-last-stone-weight](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1340,6 +1341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1127-last-stone-weight](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2164-two-best-non-overlapping-events) |
