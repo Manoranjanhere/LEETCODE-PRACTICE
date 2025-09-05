@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0695-max-area-of-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0721-accounts-merge) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0801-is-graph-bipartite) |
@@ -1195,6 +1198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0967-minimum-falling-path-sum) |
@@ -1426,6 +1430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
