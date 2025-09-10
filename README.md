@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
@@ -1395,6 +1397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2089-maximum-matrix-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
