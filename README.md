@@ -677,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1030,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1515,6 +1517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Rolling Hash
 |  |
 | ------- |
