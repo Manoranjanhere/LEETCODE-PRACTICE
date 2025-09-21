@@ -1,41 +1,47 @@
 class Solution {
-private:
-    // Performs DFS and returns true if there's a path between src and target.
-    bool isConnected(int src, int target, vector<bool>& visited,
-                     vector<int> adjList[]) {
-        visited[src] = true;
-
-        if (src == target) {
-            return true;
-        }
-
-        int isFound = false;
-        for (int adj : adjList[src]) {
-            if (!visited[adj]) {
-                isFound = isFound || isConnected(adj, target, visited, adjList);
-            }
-        }
-
-        return isFound;
-    }
-
 public:
-    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
-        int N = edges.size();
-
-        vector<int> adjList[N];
-        for (auto edge : edges) {
-            vector<bool> visited(N, false);
-
-            // If DFS returns true, we will return the edge.
-            if (isConnected(edge[0] - 1, edge[1] - 1, visited, adjList)) {
-                return edge;
-            }
-
-            adjList[edge[0] - 1].push_back(edge[1] - 1);
-            adjList[edge[1] - 1].push_back(edge[0] - 1);
+        vector<int> rank;
+        vector<int> parent;
+    int find(int a)
+    {
+        if(parent[a]!=a)
+        {
+            parent[a]=find(parent[a]);
         }
-
+        return parent[a];
+    }
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        int n = edges.size();
+        rank.resize(n+1,0);
+        parent.resize(n+1);
+        for(int i=0;i<n;i++)
+        {
+            parent[i]=i;
+        }
+        for(int i=0;i<n;i++)
+        {
+            int a= edges[i][0];
+            int b= edges[i][1];
+            int pa=find(a);
+            int pb=find(b);
+            if(pa==pb)return{a,b};
+            else
+            {
+                if(rank[pa]>rank[pb])
+                {
+                    parent[pb]=pa;
+                }
+                else if(rank[pa]<rank[pb])
+                {
+                   parent[pa]=pb;
+                }
+                else
+                {
+                    rank[pb]++;
+                    parent[pa]=pb;
+                }
+            }
+        }
         return {};
     }
 };
