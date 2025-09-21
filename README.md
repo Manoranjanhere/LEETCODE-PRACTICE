@@ -540,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0801-is-graph-bipartite) |
@@ -716,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0787-sliding-puzzle) |
@@ -1449,6 +1451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0801-is-graph-bipartite) |
@@ -1484,6 +1487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0685-redundant-connection-ii) |
 | [0801-is-graph-bipartite](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
