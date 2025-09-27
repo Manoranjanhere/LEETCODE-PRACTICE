@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0792-binary-search) |
 | [0827-expressive-words](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0827-expressive-words) |
+| [0830-largest-triangle-area](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0859-design-circular-deque) |
 | [0862-find-and-replace-in-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0862-find-and-replace-in-string) |
@@ -1139,6 +1140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0670-maximum-swap) |
+| [0830-largest-triangle-area](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0912-random-pick-with-weight) |
 | [1448-maximum-69-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1613,4 +1615,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
