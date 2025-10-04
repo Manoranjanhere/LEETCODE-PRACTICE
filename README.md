@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0074-search-a-2d-matrix) |
@@ -1234,6 +1235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0200-number-of-islands) |
@@ -1358,6 +1360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0592-fraction-addition-and-subtraction) |
