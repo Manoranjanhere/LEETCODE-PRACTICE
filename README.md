@@ -746,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1036-rotting-oranges) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1484-linked-list-in-binary-tree) |
@@ -1544,6 +1545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0813-all-paths-from-source-to-target) |
 | [0922-possible-bipartition](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2201-valid-arrangement-of-pairs) |
