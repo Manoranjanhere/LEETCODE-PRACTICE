@@ -1031,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1160-letter-tile-possibilities) |
@@ -1521,6 +1522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0922-possible-bipartition) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1396-count-servers-that-communicate) |
