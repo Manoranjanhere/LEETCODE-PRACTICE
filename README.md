@@ -572,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1558-course-schedule-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1876-map-of-highest-peak](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1551,6 +1553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1229-shortest-path-with-alternating-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
