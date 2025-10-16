@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1105-uncrossed-lines) |
 | [1127-last-stone-weight](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1129-longest-string-chain) |
@@ -566,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0922-possible-bipartition) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0988-flip-equivalent-binary-trees) |
+| [1073-number-of-enclaves](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1380-number-of-closed-islands) |
@@ -751,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1073-number-of-enclaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1380-number-of-closed-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1272,6 +1275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1517,6 +1521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0922-possible-bipartition) |
+| [1073-number-of-enclaves](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2764-maximum-number-of-fish-in-a-grid) |
