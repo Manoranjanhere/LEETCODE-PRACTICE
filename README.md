@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0621-task-scheduler) |
@@ -739,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1121,6 +1123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -1273,6 +1276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0854-making-a-large-island) |
