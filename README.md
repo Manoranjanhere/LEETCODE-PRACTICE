@@ -1704,4 +1704,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0830-largest-triangle-area) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
