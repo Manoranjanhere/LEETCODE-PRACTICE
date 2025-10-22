@@ -971,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0155-min-stack) |
@@ -1011,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0097-interleaving-string) |
