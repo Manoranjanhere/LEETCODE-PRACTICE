@@ -496,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2226-rings-and-rods](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2226-rings-and-rods) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1209,6 +1211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2155-find-missing-observations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1378,6 +1381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2507-number-of-common-factors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
@@ -1626,6 +1630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
