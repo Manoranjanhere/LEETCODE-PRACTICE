@@ -462,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3643-zero-array-transformation-ii) |
@@ -1376,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3643-zero-array-transformation-ii) |
 ## Enumeration
 |  |
@@ -1438,6 +1440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
