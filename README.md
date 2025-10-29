@@ -1228,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
@@ -1272,6 +1273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Combinatorics
 |  |
 | ------- |
