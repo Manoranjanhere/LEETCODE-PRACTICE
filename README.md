@@ -842,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3790-fruits-into-baskets-ii) |
+| [4073-lexicographically-smallest-string-after-reverse](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Linked List
 |  |
 | ------- |
@@ -928,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3195-separate-black-and-white-balls) |
+| [4073-lexicographically-smallest-string-after-reverse](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -1391,6 +1393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2507-number-of-common-factors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2507-number-of-common-factors) |
+| [4073-lexicographically-smallest-string-after-reverse](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Number Theory
 |  |
 | ------- |
