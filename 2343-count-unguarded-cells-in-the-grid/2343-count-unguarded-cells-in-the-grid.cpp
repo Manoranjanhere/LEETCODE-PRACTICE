@@ -1,46 +1,51 @@
 class Solution {
 public:
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
-        vector<vector<int>> grid(m, vector<int>(n, 0));
-        // 0 = free, 1 = guard, 2 = wall, 3 = guardable
-        
-        for (const auto& guard : guards) {
-            grid[guard[0]][guard[1]] = 1;
+        vector<vector<int>> dp(m,vector<int>(n,0));
+        for(auto i:walls)
+        {
+            dp[i[0]][i[1]]=2;
         }
-        for (const auto& wall : walls) {
-            grid[wall[0]][wall[1]] = 2;
+        for(auto i:guards)
+        {
+            dp[i[0]][i[1]]=3;
         }
-        
-        auto mark_guarded = [&](int r, int c) {
-            for (int row = r + 1; row < m; row++) {
-                if (grid[row][c] == 1 || grid[row][c] == 2) break;
-                grid[row][c] = 3;
-            }
-            for (int row = r - 1; row >= 0; row--) {
-                if (grid[row][c] == 1 || grid[row][c] == 2) break;
-                grid[row][c] = 3;
-            }
-            for (int col = c + 1; col < n; col++) {
-                if (grid[r][col] == 1 || grid[r][col] == 2) break;
-                grid[r][col] = 3;
-            }
-            for (int col = c - 1; col >= 0; col--) {
-                if (grid[r][col] == 1 || grid[r][col] == 2) break;
-                grid[r][col] = 3;
-            }
-        };
-        
-        for (const auto& guard : guards) {
-            mark_guarded(guard[0], guard[1]);
+        for(auto i:guards)
+        {
+            solve(i[0],i[1],guards,dp);
         }
-        
-        int res = 0;
-        for (const auto& row : grid) {
-            for (int cell : row) {
-                if (cell == 0) res++;
+        int ans =0;
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(dp[i][j]==0)
+                {
+                    ans++;
+                }
             }
         }
-        
-        return res;
+        return ans;
+    }
+    void solve(int i,int j,vector<vector<int>>& g,vector<vector<int>>& dp)
+    {
+        int n = dp.size();
+        int m = dp[0].size();
+        for(int y=i+1;y<n&&dp[y][j]!=2&&dp[y][j]!=3;y++)
+        {
+            dp[y][j]=1;
+        }
+        for(int y=i-1;y>=0&&dp[y][j]!=2&&dp[y][j]!=3;y--)
+        {
+            dp[y][j]=1;
+        }
+        for(int y=j+1;y<m&&dp[i][y]!=2&&dp[i][y]!=3;y++)
+        {
+            dp[i][y]=1;
+        }
+        for(int y=j-1;y>=0&&dp[i][y]!=2&&dp[i][y]!=3;y--)
+        {
+            dp[i][y]=1;
+        }
     }
 };
