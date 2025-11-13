@@ -1108,6 +1108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3797-design-spreadsheet) |
@@ -1540,6 +1541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3195-separate-black-and-white-balls) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1663,6 +1665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Rolling Hash
 |  |
