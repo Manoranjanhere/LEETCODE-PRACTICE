@@ -530,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -579,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
