@@ -11,11 +11,9 @@ public:
 	}
 	int step=1;
 	int k=nums[0];
-	int i=nums[0];
 	while(k<n-1)
 	{
-		k=i+st[i];
-        i=k;
+		k+=st[k];
 		step++;
 	}
 	return step;
