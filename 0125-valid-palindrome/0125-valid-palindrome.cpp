@@ -1,26 +1,13 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string res ="";
-        for(char c:s)
-        {
-            if(isalnum(c))
-            {
-                res+=tolower(c);
-            }
-        }
-        cout<<res;
-        int i=0;
-        int j = res.length()-1;
-        while(i<j)
-        {
-            if(res[i]!=res[j])
-            {
-                return false;
-            }
-            i++;
-            j--;
-        }
-        return true;
+        string st="";
+        for(char ch:s)
+	{
+		if(isdigit(ch)||isalpha(ch))st+=tolower(ch);
+	}
+	string rev=st;
+	reverse(rev.begin(),rev.end());
+	return (rev==st)?true:false;
     }
 };
