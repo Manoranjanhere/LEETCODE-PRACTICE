@@ -1,21 +1,21 @@
 class Solution {
 public:
     void solveSudoku(vector<vector<char>>& board) {
-        solveSudokuboard(board);
+        solveS(board);
     }
-    bool solveSudokuboard(vector<vector<char>>& board) {
+    bool solveS(vector<vector<char>>& board) {
         for(int i=0;i<9;i++)
         {
             for(int j=0;j<9;j++)
             {
                 if(board[i][j]=='.')
                 {
-                    for(int k='1';k<='9';k++)
+                    for(int k=1;k<=9;k++)
                     {
-                        if(isvalid(board,i,j,k))
+                        if(solve(i,j,board,k))
                         {
-                            board[i][j]=k;
-                            if(solveSudokuboard(board))return true;
+                            board[i][j]=k+'0';
+                            if(solveS(board))return true;
                             board[i][j]='.';
                         }
                     }
@@ -25,14 +25,26 @@ public:
         }
         return true;
     }
-    bool isvalid(vector<vector<char>>&board,int i,int j,char k)
+    bool solve(int i,int j,vector<vector<char>>& board,int k)
     {
-        for(int n=0;n<9;n++)
+        for(int l=0;l<9;l++)
         {
-            if(board[i][n]==k)return false;
-            if(board[n][j]==k)return false;
-            if(board[3*(i/3)+n/3][3*(j/3)+n%3]==k)return false;
+            if(board[i][l]==k+'0')return false;
+        }
+        for(int l=0;l<9;l++)
+        {
+            if(board[l][j]==k+'0')return false;
+        }
+        int g1 = i/3*3;
+        int g2= j/3*3;
+        for(int l=g1;l<g1+3;l++)
+        {
+            for(int m=g2;m<g2+3;m++)
+            {
+                if(board[l][m]==k+'0')return false;
+            }
         }
         return true;
     }
+    
 };
