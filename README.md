@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
@@ -651,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
@@ -956,6 +958,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0179-largest-number) |
@@ -1042,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0071-simplify-path) |
