@@ -1810,4 +1810,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0274-h-index) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
