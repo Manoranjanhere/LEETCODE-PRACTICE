@@ -1,87 +1,24 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-        stack<char> st;
-        int dotc=0;
-        for(char ch:path)
+        stack<string> st;
+        string get="";
+        for(int i=0;i<=path.size();i++)
         {
-            if(isalpha(ch))
-            {
-                while(dotc)
-                {
-                    st.push('.');
-                    dotc--;
-                }
-                st.push(ch);
-                continue;
+            if(i==path.size()||path[i]=='/'){
+                if(get==".."){if(!st.empty())st.pop();}
+                else if(get!=""&&get!="."){st.push(get);}
+                get="";
             }
-            if(ch=='.')
-            {
-               dotc++;
-            }
-            else
-            {
-                if(dotc==1&&st.top()=='/')
-                {
-                    st.pop();
-                }
-                else if(dotc==2&&st.top()=='/')
-                {
-                    
-                        st.pop();
-                        while(!st.empty()&&st.top()!='/')
-                        {
-                            st.pop();
-                        }
-                }
-                else
-                {
-                    while(dotc)
-                    {
-                        dotc--;
-                        st.push('.');
-                    }
-                }
-                dotc=0;
-                if(ch=='/')
-                {
-                    if(!st.empty()&&st.top()=='/')continue;
-                }
-                st.push(ch);
-            }
+            else get+=path[i];
         }
-                if(dotc==1&&st.top()=='/')
-                {
-                    st.pop();
-                }
-                else if(dotc==2&&st.top()=='/')
-                {
-                    st.pop();
-                    while(!st.empty()&&st.top()!='/')
-                    {
-                        st.pop();
-                    }
-                }
-                else
-                {
-                    while(dotc)
-                    {
-                        dotc--;
-                        st.push('.');
-                    }
-                }
         string ans ="";
-        while(!st.empty()&&st.top()=='/')
-        {
-            st.pop();
-        }
-        if(st.empty())return "/";
         while(!st.empty())
         {
-            char curr = st.top();
+            ans='/'+st.top()+ans;
             st.pop();
-            ans=curr+ans;
         }
+        if(ans=="")return "/";
         return ans;
     }
 };
