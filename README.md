@@ -663,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0347-top-k-frequent-elements) |
@@ -964,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0295-find-median-from-data-stream) |
@@ -1063,6 +1065,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/0318-maximum-product-of-word-lengths) |
