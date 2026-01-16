@@ -1,29 +1,24 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        unordered_set<int> st;
-        st.insert(n);
-        return solve(n,st);
+        int slow=n;
+        int fast= next(n);
+        while(fast!=1&&slow!=fast)
+        {
+            slow=next(slow);
+            fast=next(next(fast));
+        }
+        return fast==1;
     }
-    bool solve(int n,unordered_set<int>& st)
+    int next(int n)
     {
-        long long sum=0;
+        int sum =0;
         while(n>0)
         {
-            int rem=n%10;
-            sum+=pow(rem,2);
+            int rem= n%10;
+            sum+=rem*rem;
             n/=10;
         }
-        if(sum==1)
-        {
-            return true;
-        }
-        else if(st.find(sum)!=st.end())
-        {
-            return false;
-        }
-        
-            st.insert(sum);
-            return solve(sum,st);
+        return sum;
     }
 };
