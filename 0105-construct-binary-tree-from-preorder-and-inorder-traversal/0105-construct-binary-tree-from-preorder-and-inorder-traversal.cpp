@@ -11,31 +11,24 @@
  */
 class Solution {
 public:
+    unordered_map<int,int> mp;
+    int ind=0;
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int ps=0;
-        int pe=preorder.size()-1;
-        int is=0;
-        int ie = inorder.size()-1;
-        unordered_map<int,int> mp;
-        for(int i=0;i<=ie;i++)
+        int n = inorder.size();
+        for(int i=0;i<n;i++)
         {
-                        mp[inorder[i]]=i;
+            mp[inorder[i]]=i;
         }
-        TreeNode* ans;
-        ans = build( preorder,inorder,ps,pe,is,ie,mp);
-        return ans;
+        return build (preorder,0,n-1);
     }
-    TreeNode* build(vector<int>& preorder, vector<int>& inorder,int ps,int pe, int is,int ie,unordered_map<int,int>& mp)
+    TreeNode* build(vector<int>& preorder,int l,int r)
     {
-        if(ps>pe||is>ie)
-        {
-            return NULL;
-        }
-        TreeNode*curr= new TreeNode(preorder[ps]);
-        int index = mp[preorder[ps]];
-        int left =index-is;
-        curr->left=build( preorder,inorder,ps+1,ps+left,is,index-1,mp);
-        curr->right=build( preorder,inorder,ps+left+1,pe,index+1,ie,mp);
-        return curr;
+        if(l>r)return NULL;
+        int rootval= preorder[ind++];
+        TreeNode* root= new TreeNode(rootval);
+        int mid=mp[rootval];
+        root->left=build(preorder,l,mid-1);
+        root->right=build(preorder,mid+1,r);
+        return root;
     }
 };
