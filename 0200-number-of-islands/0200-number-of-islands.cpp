@@ -2,6 +2,7 @@ class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
         int ans =0;
+        if(grid.empty())return ans;
         int n = grid.size();
         int m = grid[0].size();
         vector<vector<int>> vis(n,vector<int>(m,0));
