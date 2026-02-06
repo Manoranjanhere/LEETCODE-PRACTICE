@@ -478,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3616-make-array-elements-equal-to-zero](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3643-zero-array-transformation-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1008,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3291-find-if-array-can-be-sorted) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
@@ -1408,6 +1410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Manoranjanhere/LEETCODE-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
